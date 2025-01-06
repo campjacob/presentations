@@ -1,0 +1,20 @@
+---
+layout: single_present_slide
+title: "Fall 2024 SOWK 590 Week 07 - Advanced Seminar I"
+slides:
+  - slide_name: ../deck-IWsbpl-large-0.jpeg
+    slide_text_md: >
+      %23%23%20Fall%202024%20SOWK%20590%20Week%2007%20-%20Advanced%20Seminar%20I%0Atitle:%20Fall%202024%20SOWK%20590%20Week%2007%20-%20Advanced%20Seminar%20I%0Adate:%202024-09-29%2021:12:00%0Alocation:%20Heritage%20University%0Atags:%0A%0A%20%20-%20Heritage%20University%0A%20%20-%20MSW%20Program%0A%20%20-%20SOWK%20590%0A%0Apresentation_video:%20%3E%0A%20%20%0Adescription:%20%3E%0A%0AWeek%20seven%20is%20synchronous%20with%20having%20class%20on%20Saturday%20(10/05/24)%20week%20for%20SOWK%20590.%20We%20will%20have%20the%20following%20agenda:%0A%0A-%20SLED:%20Intersectionality%20and%20Identity%0A-%20Mindfulness%20activity%0A-%20Practice%20Learning%20Reflection%20Group%0A%0AThe%20learning%20objectives%20this%20week%20include:%0A%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20peers%20in%20their%20practicum%20and%20be%20able%20to%20use%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20consider%20intersectionality%20and%20identity.%0A%0A%0A
+  - slide_name: ../deck-IWsbpl-large-1.jpeg
+    slide_text_md: >
+      %23%23%20Plan%20for%20week%2007%0A%0AAgenda%0A%0A-%20SLED:%20Intersectionality%20and%20Identity%0A-%20Mindfulness%20activity%0A-%20Practice%20Learning%20Reflection%20Group%0A%0ALearning%20Objectives%0A%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20peers%20in%20their%20practicum%20and%20be%20able%20to%20use%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20consider%20intersectionality%20and%20identity%0A%0A%0A
+  - slide_name: ../deck-IWsbpl-large-2.jpeg
+    slide_text_md: >
+      %23%23%20Student%20Led%20Discussion:%20Intersectionality%20and%20Identity%0A%0A
+  - slide_name: ../deck-IWsbpl-large-3.jpeg
+    slide_text_md: >
+      %23%23%20Wheel%20of%20Awareness%20and%20the%20Plane%20of%20Possibility%0A%3E%20Dr.%20Dan%20Siegle%0A%0A%5BWhole%20Class%20Activity%5D%20Listen%20to%20%5BWheel%20of%20Awareness%20and%20the%20Plane%20of%20Possibility%5D(https://drdansiegel.com/wheel-of-awareness/)%0A%0AHere%20is%20an%20image%20of%20%E2%80%9CThe%20Wheel%20of%20Awareness.%E2%80%9D%20The%20hub%20represents%20the%20experience%20of%20awareness%20itself%20%E2%80%94%20knowing%20%E2%80%94%20while%20the%20rim%20contains%20all%20the%20points%20of%20anything%20we%20can%20become%20aware%20of,%20that%20which%20is%20known%20to%20us.%20We%20can%20send%20a%20spoke%20out%20to%20the%20rim%20to%20focus%20our%20attention%20on%20one%20point%20or%20another%20on%20the%20rim.%20In%20this%20way,%20the%20wheel%20of%20awareness%20becomes%20a%20visual%20metaphor%20for%20the%20integration%20of%20consciousness%20as%20we%20differentiate%20rim-elements%20and%20hub-awareness%20from%20each%20other%20and%20link%20them%20with%20our%20focus%20of%20attention.%0A%0A%0A
+  - slide_name: ../deck-IWsbpl-large-4.jpeg
+    slide_text_md: >
+      %23%23%20Practice%20Learning%20Reflection%20Group%0A%0A%5BWhole%20Class%20Activity%5D%20%20Review%20Norms%0A%0AGroup%20Check-in%20Question:%0AAn%20activity%20that%20is%20facilitating%20learning%20for%20you%20this%20week.%0A%0APracticum%20Discussion:%20%0A-%20What%20are%20some%20of%20the%20things%20that%20are%20happening%20in%20your%20practicums%0A-%20What%20are%20some%20of%20the%20needs%20of%20the%20clients%20you%20are%20working%20with%0A-%20Examples%20of%20client%20work%20to%20share%20with%20the%20group%0A
+---
