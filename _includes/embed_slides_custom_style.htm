@@ -1,0 +1,149 @@
+<style>
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        font-family: sans-serif;
+    }
+
+    .notist-container * {
+        text-decoration: none;
+    }
+
+
+    h1 {
+        font-size: 18px;
+        line-height: 1;
+        margin: 0 0 5px 0;
+        padding: 0;
+        color: white;
+        text-decoration: none;
+    }
+
+    h2 {
+        font-size: 16px;
+        line-height: 1;
+        margin: 0;
+        padding: 0;
+        font-weight: 400;
+        color: white;
+        text-decoration: none;
+    }
+
+
+    .embedded-deck-container,
+    .embed-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+    }
+
+    iframe, video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    img {
+        max-width: 100%;
+        display: block;
+    }
+
+    .banner {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.6);
+        color: #fff;
+        height: 40px;
+        padding: 10px 20px;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        opacity: 0;
+        transition: .5s;
+    }
+
+    body:hover .banner {
+        opacity: 1;
+    }
+
+    .top.banner {
+        top: 0;
+
+        height: 70px;
+        padding: 20px 20px 30px 20px;
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0.05) 90%, rgba(0, 0, 0, 0) 100%);
+    }
+
+    .bottom.banner {
+        bottom: 0;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 70px;
+        padding: 30px 20px 10px 20px;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0.05) 90%, rgba(0, 0, 0, 0) 100%);
+    }
+
+    .bottom.banner > * {
+        flex: 1 100%;
+    }
+
+    .ctrls {
+        text-align: right;
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        z-index: 10000;
+    }
+
+    .ctrls svg {
+        fill: white;
+        padding: 0;
+        line-height: 1;
+        margin: 0;
+        display: block;
+    }
+
+    .ctrls button {
+        border: 0;
+        background: none;
+        padding: 0;
+        margin: 0 2px;
+        background-color: black;
+        border-radius: 20px;
+        border: 1px solid black;
+    }
+
+    .ctrls button[disabled] {
+        opacity: 0.3;
+    }
+
+    .logo img {
+        margin: -5px 0 0 0;
+        display: block;
+        width: 80px;
+    }
+
+    .state {
+        text-align: center;
+        font-size: 14px;
+        font-weight: 600;
+        text-shadow: 0 0 2px black;
+    }
+
+    .avatar {
+        width: 40px;
+        height: 40px;
+        border-radius: 40px;
+        margin-right: 10px;
+    }
+
+    .plaque {
+        display: flex;
+    }
+
+</style>

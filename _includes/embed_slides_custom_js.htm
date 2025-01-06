@@ -1,0 +1,21 @@
+<script src="/assets/js/tiny-slider.js"></script>
+<script>
+    var slider = tns({
+        container: '.notist-slider',
+        items: 1,
+        slideBy: 'page',
+        controlsPosition: 'bottom',
+        nav: false,
+        loop: false,
+        lazyload: true,
+        controlsContainer: '.ctrls',
+        onInit: function (slider) {
+            document.querySelector('#total').innerHTML = slider.slideCount;
+            document.querySelector('#current').innerHTML = slider.displayIndex;
+        }
+    });
+
+    slider.events.on('indexChanged', function (slider) {
+        document.querySelector('#current').innerHTML = slider.displayIndex;
+    });
+</script>

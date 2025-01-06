@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/assets/css/reveal.css">
+    {% include head.htm %}
+    <style>
+        body {
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+
+<div class="reveal">
+	<div class="slides">
+{% for slide in page.slides %}
+		  <section data-background-image="{{ slide.slide_name }}" data-background-size="contain">
+		  	<aside class="notes">
+		  		{{ slide.slide_text_md | url_decode | markdownify  }}
+		  	</aside>
+		  </section>
+{% endfor %}
+	</div>
+</div>
+
+<script src="/assets/js/reveal.js"></script>
+<script>
+        // Initialize Reveal.js with default settings
+        Reveal.initialize({
+            showNotes: false
+        });
+
+        // Track the current state of showNotes
+        let notesVisible = false;
+
+        // Add an event listener for keypress
+        document.addEventListener('keypress', function(event) {
+            if (event.key === 'r') { // Check if the key pressed is "r"
+                notesVisible = !notesVisible; // Toggle the state
+                Reveal.configure({ showNotes: notesVisible }); // Update the configuration
+                console.log(`Notes are now ${notesVisible ? 'visible' : 'hidden'}`);
+            }
+        });
+</script>
+</body>
+</html>

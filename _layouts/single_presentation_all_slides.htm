@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h1 class="fw-bolder text-center"><a href="/presentations/{{ page.presentation_id }}" class="link-body-emphasis">{{ page.title }}</a></h1>
+
+<div class="mx-3">
+
+{% for slide in page.slides %}
+  <div class="row my-2">
+  <div class="text-body-secondary fw-light">Slide {{ forloop.index }}</div>
+  <div class="col-md-6">
+    <img src="{{ slide.slide_name }}" class="d-block w-100" alt="{% if slide.slide_alt %}{{ slide.slide_alt }}{% else %}{{ slide.slide_text | strip_html }}{% endif %}">
+    </div>
+    <div class="col-md-6">
+    <div>
+      {% if slide.slide_text_md %}{{ slide.slide_text_md | url_decode | markdownify }}{% else %}{{ slide.slide_text }}{% endif %}
+    </div>
+    </div>
+</div>
+{% endfor %}
+
+</div>

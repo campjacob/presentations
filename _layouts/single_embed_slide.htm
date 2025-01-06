@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-US" data-bs-theme="auto">
+<head>
+
+  {% include head.htm %}
+
+</head>
+
+<body>
+<div class="notist-container">
+    <div class="top banner"><!-- presentations.jacobrcampbell.com -->
+        <a href="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" rel="noopener" target="_blank">
+        <div class="plaque">
+            <img src="https://jacobrcampbell.com/assets/src/jacob-campbell-portrait.jpg" class="avatar" alt="Jacob Campbell">
+            <div>
+                <h1>{{ page.title }}</h1>
+                <h2>Dr. Jacob Campbell</h2>
+            </div>
+        </div>
+        </a>
+    </div>
+    <div class="notist-slider">
+{% for slide in page.slides %}
+        <section>
+            <img data-src="{{ slide.slide_name }}" class="tns-lazy-img"
+             width="1600"
+             data-srcset=   "{{ slide.slide_thumbnail }} 640w,
+                            {{ slide.slide_name }} 1600w"
+             src="{{ slide.slide_name }}"
+             alt="{% if slide.slide_alt %}{{ slide.slide_alt }}{% else %}{{ slide.slide_text | strip_html }}{% endif %}">
+        </section>
+{% endfor %}
+    </div>
+    <div class="bottom banner">
+        <div class="logo"></div>
+        <div class="state">
+            <span id="current"></span> /
+            <span id="total"></span>
+        </div>
+        <div></div>
+    </div>
+    <nav class="ctrls" role="navigation" aria-label="Pagination Navigation">
+        <button type="button" aria-label="Go to previous slide">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24">
+                <path data-name="caret-left-circle"
+                      d="M12 0a12 12 0 1 0 12 12A12 12 0 0 0 12 0zm2.61 16.207a1 1 0 0 1-1.22 1.586L5.86 12l7.53-5.793a1 1 0 0 1 1.22 1.586L9.14 12z"/>
+            </svg>
+        </button>
+        <button type="button" aria-label="Go to next slide">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24">
+                <path data-name="caret-right-circle"
+                      d="M12 0a12 12 0 1 0 12 12A12 12 0 0 0 12 0zm-1.39 17.793a1 1 0 0 1-1.22-1.586L14.86 12 9.39 7.793a1 1 0 0 1 1.22-1.586L18.14 12z"/>
+            </svg>
+        </button>
+    </nav>
+</div>
+
+{% if page.layout == 'single_embed_slide' %}
+{% include embed_slides_custom_js.htm %}
+{% endif %}
+
+</body>
+</html>

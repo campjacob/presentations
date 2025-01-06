@@ -1,0 +1,89 @@
+---
+layout: default
+---
+
+{% assign presentations_tags = site.presentations | map: "tags" | join: "," | split: "," %}
+{% assign tags = presentations_tags | uniq %}
+
+{% assign tags_max = 0 %}
+{% assign tag_counts = "" | split: "" %}
+
+{% for tag in tags %}
+  {% assign tag_count = 0 %}
+  {% for presentation in site.presentations %}
+    {% if presentation.tags contains tag %}
+      {% assign tag_count = tag_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% assign tag_counts = tag_counts | push: tag_count %}
+  {% if tag_count > tags_max %}
+    {% assign tags_max = tag_count %}
+  {% endif %}
+{% endfor %}
+
+<h1 id="page-title" class="fw-bolder text-center">Presentation Tags</h1>
+
+<div class="row">
+  <div class="col"></div>
+  <div class="col-lg-4 text-center">
+    <p>List of tags used in presentations</p>
+    <ul class="list-group">
+    {% for i in (1..tags_max) reversed %}
+    {% for tag in tags %}
+      {% assign index = forloop.index0 %}
+      {% if tag_counts[index] == i %}
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a href="#{{ tag | slugify }}">{{ tag }}</a>
+        <span class="badge text-bg-primary rounded-pill">{{ i }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="col"></div>
+</div>
+
+
+<br>
+<h1 class="fw-bolder text-center">Presentations Sorted by Tags</h1>
+<p class="text-center">List of all presentations sorted by tag</p>
+<div class="row">
+{% for tag in tags %}
+    <section id="{{ tag | slugify | downcase }}">
+      <h3>{{ tag }}</h3>
+      <ul>
+        {% assign presentations_with_tag = "" | split: "" %}
+        {% for presentation in site.presentations %}
+          {% if presentation.tags contains tag %}
+            {% assign presentations_with_tag = presentations_with_tag | push: presentation %}
+          {% endif %}
+        {% endfor %}
+        
+        {% if presentations_with_tag.size > 10 %}
+        {% for presentation in presentations_with_tag limit:10 %}
+          <li><a href="{{ presentation.url }}">{{ presentation.title }}</a></li>
+        {% endfor %}
+        <br>
+        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ tag | downcase | slugify }}" aria-expanded="false" aria-controls="collapse{{ tag | downcase | slugify }}">View More</button>
+        <div class="collapse" id="collapse{{ tag | downcase | slugify }}">
+          <div class="card card-body">
+            <ul>
+            {% for presentation in presentations_with_tag offset:10 %}
+              <li><a href="{{ presentation.url }}">{{ presentation.title }}</a></li>
+            {% endfor %}
+            </ul>
+          </div>
+        </div>
+        {% else %}
+        {% for presentation in presentations_with_tag %}
+          <li><a href="{{ presentation.url }}">{{ presentation.title }}</a></li>
+        {% endfor %}
+        {% endif %}        
+      </ul>
+      <div class="small text-end text-lg-center text-xl-start"><a href="#page-title">Back to Top &uarr;</a></div>
+    </section>
+  {% endfor %}
+</div>
+
+
