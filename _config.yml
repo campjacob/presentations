@@ -8,10 +8,10 @@ description: "This site is my home for all of my stuff. I am an associate profes
 name: "Jacob Campbell"
 
 
+# Baseurl will likely need to change when merged.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  campjacob
 
 # Build settings
 plugins:
@@ -21,10 +21,12 @@ plugins:
 # Conversion
 markdown: kramdown
 
+# When I transfer this to my website it will need to be /:collection/:path/
 collections:
   presentations:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
+
 
 
 # Exclude from processing.

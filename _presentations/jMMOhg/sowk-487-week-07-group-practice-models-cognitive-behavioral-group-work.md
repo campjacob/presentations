@@ -4,7 +4,7 @@ name: sowk-487-week-07-group-practice-models-cognitive-behavioral-group-work.md
 title: "SOWK 487 - Week 07 - Group Practice Models - Cognitive Behavioral Group Work"
 date:  2021-02-21 08:00:00
 presentation_id: jMMOhg
-permalink: /presentations/jMMOhg/
+permalink: /jMMOhg/
 redirect_from:
   - /presentations/jMMOhg/sowk-487-week-07-group-practice-models-cognitive-behavioral-group-work
 slides: 

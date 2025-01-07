@@ -4,9 +4,9 @@ name: fall-2024-sowk-581-week-14-empathetic-strain.md
 title: "Fall 2024 SOWK 581 Week 14 - Empathetic Strain"
 date:  2024-11-23 12:04:00
 presentation_id: JnluQE
-permalink: /presentations/JnluQE/
+permalink: /JnluQE/
 redirect_from:
-  - /presentations/JnluQE/fall-2024-sowk-581-week-14-empathetic-strain
+  - /presentations/JnluQE/fall-2024-sowk-581-week-14-empathetic-strai
 slides: 
   - slide_name: deck-JnluQE-large-0.jpeg
     slide_alt: "Heart-shaped design with the text 'from the heart' above floral elements. Presentation slide for Week 14 lecture video titled 'Empathetic Strain' by Jacob Campbell, Ph.D., at Heritage University."

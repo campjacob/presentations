@@ -29,7 +29,7 @@ layout: default
     <div class="carousel-inner">
 {% for slide in page.slides %}
       <div class="carousel-item {% if forloop.first %}active{% endif %}">
-          <img src="{{ slide.slide_name }}" class="d-block w-100" alt="{% if slide.slide_alt %}{{ slide.slide_alt }}{% else %}{{ slide.slide_text | strip_html }}{% endif %}">
+          <img src="{{ site.url }}{{ site.baseurl }}/{{ page.presentation_id }}/{{ slide.slide_name }}" class="d-block w-100" alt="{% if slide.slide_alt %}{{ slide.slide_alt }}{% else %}{{ slide.slide_text | strip_html }}{% endif %}">
       </div>
 {% endfor %}
     </div>
