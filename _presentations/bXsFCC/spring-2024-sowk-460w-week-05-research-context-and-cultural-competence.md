@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-05-research-context-and-cultural-competence.md
 title: "Spring 2024 SOWK 460w Week 05 - Research Context and Cultural Competence"
 date:  2024-02-10 08:00:00
 presentation_id: bXsFCC
-permalink: /presentations/bXsFCC/
+permalink: /bXsFCC/
 redirect_from:
   - /presentations/bXsFCC/spring-2024-sowk-460w-week-05-research-context-and-cultural-competence
 slides: 

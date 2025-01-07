@@ -4,7 +4,7 @@ name: spring-2023-sowk-487-week-6-understanding-social-work-groups.md
 title: "Spring 2023 SOWK 487 Week 6: Understanding Social Work Groups"
 date:  2023-02-20 08:00:00
 presentation_id: 5F2zXl
-permalink: /presentations/5F2zXl/
+permalink: /5F2zXl/
 redirect_from:
   - /presentations/5F2zXl/spring-2023-sowk-487-week-6-understanding-social-work-groups
 slides: 

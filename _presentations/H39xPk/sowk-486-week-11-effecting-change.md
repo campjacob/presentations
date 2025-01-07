@@ -4,7 +4,7 @@ name: sowk-486-week-11-effecting-change.md
 title: "SOWK 486 Week 11: Effecting Change"
 date:  2020-11-01 08:00:00
 presentation_id: H39xPk
-permalink: /presentations/H39xPk/
+permalink: /H39xPk/
 redirect_from:
   - /presentations/H39xPk/sowk-486-week-11-effecting-change
 slides: 

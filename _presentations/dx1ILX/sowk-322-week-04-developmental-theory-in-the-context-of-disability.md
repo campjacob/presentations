@@ -4,7 +4,7 @@ name: sowk-322-week-04-developmental-theory-in-the-context-of-disability.md
 title: "SOWK 322 Week 04 - Developmental Theory in the Context of Disability"
 date:  2022-02-05 08:00:00
 presentation_id: dx1ILX
-permalink: /presentations/dx1ILX/
+permalink: /dx1ILX/
 redirect_from:
   - /presentations/dx1ILX/sowk-322-week-04-developmental-theory-in-the-context-of-disability
 slides: 

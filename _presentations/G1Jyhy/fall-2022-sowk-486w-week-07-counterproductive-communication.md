@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-07-counterproductive-communication.md
 title: "Fall 2022 SOWK 486w Week 07 - Counterproductive Communication"
 date:  2022-10-01 08:00:00
 presentation_id: G1Jyhy
-permalink: /presentations/G1Jyhy/
+permalink: /G1Jyhy/
 redirect_from:
   - /presentations/G1Jyhy/fall-2022-sowk-486w-week-07-counterproductive-communication
 slides: 

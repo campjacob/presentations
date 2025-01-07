@@ -4,7 +4,7 @@ name: fall-2024-sowk-581-week-13-solution-focused-therapy.md
 title: "Fall 2024 SOWK 581 Week 13 - Solution-Focused Therapy"
 date:  2024-11-15 22:44:00
 presentation_id: IttOXb
-permalink: /presentations/IttOXb/
+permalink: /IttOXb/
 redirect_from:
   - /presentations/IttOXb/fall-2024-sowk-581-week-13-solution-focused-therapy
 slides: 

@@ -4,7 +4,7 @@ name: sowk-86-week-11-lab-day-social-work-planning.md
 title: "SOWK 86 - Week 11 - Lab Day - Social Work Planning"
 date:  2021-11-01 08:00:00
 presentation_id: GbngFq
-permalink: /presentations/GbngFq/
+permalink: /GbngFq/
 redirect_from:
   - /presentations/GbngFq/sowk-86-week-11-lab-day-social-work-planning
 slides: 

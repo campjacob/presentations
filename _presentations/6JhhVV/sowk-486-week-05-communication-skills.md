@@ -4,7 +4,7 @@ name: sowk-486-week-05-communication-skills.md
 title: "SOWK 486 - Week 05 - Communication Skills"
 date:  2021-09-20 08:00:00
 presentation_id: 6JhhVV
-permalink: /presentations/6JhhVV/
+permalink: /6JhhVV/
 redirect_from:
   - /presentations/6JhhVV/sowk-486-week-05-communication-skills
 slides: 

@@ -4,7 +4,7 @@ name: week-04-program-evaluation-process-and-logic-models.md
 title: "Spring 2020 SOWK 460 Week 04 - Program Evaluation Process and Logic Models"
 date:  2020-02-03 08:00:00
 presentation_id: bsm2QO
-permalink: /presentations/bsm2QO/
+permalink: /bsm2QO/
 redirect_from:
   - /presentations/bsm2QO/week-04-program-evaluation-process-and-logic-models
 slides: 

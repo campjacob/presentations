@@ -4,7 +4,7 @@ name: week-09-lab-day-assessments.md
 title: "SOWK 486 Week 09 - Lab Day - Assessments"
 date:  2019-10-14 08:00:00
 presentation_id: klPS5G
-permalink: /presentations/klPS5G/
+permalink: /klPS5G/
 redirect_from:
   - /presentations/klPS5G/week-09-lab-day-assessments
 slides: 

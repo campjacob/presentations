@@ -4,7 +4,7 @@ name: fall-2024-sowk-581-week-11-cognitive-behavioral-theory.md
 title: "Fall 2024 SOWk 581 Week 11 - Cognitive Behavioral Theory"
 date:  2024-11-01 23:21:00
 presentation_id: DyEjHq
-permalink: /presentations/DyEjHq/
+permalink: /DyEjHq/
 redirect_from:
   - /presentations/DyEjHq/fall-2024-sowk-581-week-11-cognitive-behavioral-theory
 slides: 

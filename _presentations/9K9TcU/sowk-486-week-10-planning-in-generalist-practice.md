@@ -4,7 +4,7 @@ name: sowk-486-week-10-planning-in-generalist-practice.md
 title: "SOWK 486 Week 10 - Planning in Generalist Practice"
 date:  2020-10-25 08:00:00
 presentation_id: 9K9TcU
-permalink: /presentations/9K9TcU/
+permalink: /9K9TcU/
 redirect_from:
   - /presentations/9K9TcU/sowk-486-week-10-planning-in-generalist-practice
 slides: 

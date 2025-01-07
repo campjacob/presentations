@@ -4,7 +4,7 @@ name: sowk-487-spring-2022-week-11-group-work-approaches-related-to-purpose.md
 title: "SOWK 487 Spring 2022 - Week 11 - Group Work Approaches Related to Purpose"
 date:  2022-03-27 08:00:00
 presentation_id: IRxHt9
-permalink: /presentations/IRxHt9/
+permalink: /IRxHt9/
 redirect_from:
   - /presentations/IRxHt9/sowk-487-spring-2022-week-11-group-work-approaches-related-to-purpose
 slides: 

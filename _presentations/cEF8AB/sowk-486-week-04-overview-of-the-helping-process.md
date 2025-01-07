@@ -4,7 +4,7 @@ name: sowk-486-week-04-overview-of-the-helping-process.md
 title: "SOWK 486 - Week 04 - Overview of the Helping Process"
 date:  2021-09-13 08:00:00
 presentation_id: cEF8AB
-permalink: /presentations/cEF8AB/
+permalink: /cEF8AB/
 redirect_from:
   - /presentations/cEF8AB/sowk-486-week-04-overview-of-the-helping-process
 slides: 

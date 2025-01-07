@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-04-writing-about-an-ethical-framework.md
 title: "Spring 2024 SOWK 460w Week 04: Writing about an Ethical Framework"
 date:  2024-02-03 08:00:00
 presentation_id: CESLPB
-permalink: /presentations/CESLPB/
+permalink: /CESLPB/
 redirect_from:
   - /presentations/CESLPB/spring-2024-sowk-460w-week-04-writing-about-an-ethical-framework
 slides: 

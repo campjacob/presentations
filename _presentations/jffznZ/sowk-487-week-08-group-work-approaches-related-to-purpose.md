@@ -4,7 +4,7 @@ name: sowk-487-week-08-group-work-approaches-related-to-purpose.md
 title: "SOWK 487 - Week 08 - Group Work Approaches Related to Purpose"
 date:  2021-02-28 08:00:00
 presentation_id: jffznZ
-permalink: /presentations/jffznZ/
+permalink: /jffznZ/
 redirect_from:
   - /presentations/jffznZ/sowk-487-week-08-group-work-approaches-related-to-purpose
 slides: 

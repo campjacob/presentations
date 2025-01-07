@@ -4,7 +4,7 @@ name: sowk-487-week-04-foundations-for-groups-part-ii.md
 title: "SOWK 487 Week 04 - Foundations for Groups Part II"
 date:  2022-02-05 08:00:00
 presentation_id: jXdJjY
-permalink: /presentations/jXdJjY/
+permalink: /jXdJjY/
 redirect_from:
   - /presentations/jXdJjY/sowk-487-week-04-foundations-for-groups-part-ii
 slides: 

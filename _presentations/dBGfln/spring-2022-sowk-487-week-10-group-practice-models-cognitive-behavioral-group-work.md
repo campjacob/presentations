@@ -4,7 +4,7 @@ name: spring-2022-sowk-487-week-10-group-practice-models-cognitive-behavioral-gr
 title: "Spring 2022 SOWK 487 Week 10 - Group Practice Models - Cognitive Behavioral Group Work"
 date:  2022-03-20 08:00:00
 presentation_id: dBGfln
-permalink: /presentations/dBGfln/
+permalink: /dBGfln/
 redirect_from:
   - /presentations/dBGfln/spring-2022-sowk-487-week-10-group-practice-models-cognitive-behavioral-group-work
 slides: 

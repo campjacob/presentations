@@ -4,7 +4,7 @@ name: week-04-overview-of-the-helping-process.md
 title: "Week 04 - Overview of the Helping Process"
 date:  2019-09-09 08:00:00
 presentation_id: EQAysk
-permalink: /presentations/EQAysk/
+permalink: /EQAysk/
 redirect_from:
   - /presentations/EQAysk/week-04-overview-of-the-helping-process
 slides: 

@@ -4,7 +4,7 @@ name: week-03-foundations-for-groups-part-ii.md
 title: "Spring 2020 SOWK 487 Week 03 - Foundations for Groups Part II"
 date:  2020-01-27 08:00:00
 presentation_id: geohyh
-permalink: /presentations/geohyh/
+permalink: /geohyh/
 redirect_from:
   - /presentations/geohyh/week-03-foundations-for-groups-part-ii
 slides: 

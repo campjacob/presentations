@@ -4,7 +4,7 @@ name: sowk-486-week-06-communication-skills-lab-day.md
 title: "SOWK 486 - Week 06 - Communication Skills Lab Day"
 date:  2021-09-27 08:00:00
 presentation_id: 78H3LD
-permalink: /presentations/78H3LD/
+permalink: /78H3LD/
 redirect_from:
   - /presentations/78H3LD/sowk-486-week-06-communication-skills-lab-day
 slides: 

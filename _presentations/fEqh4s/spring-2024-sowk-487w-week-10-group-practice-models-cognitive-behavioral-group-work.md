@@ -4,7 +4,7 @@ name: spring-2024-sowk-487w-week-10-group-practice-models-cognitive-behavioral-g
 title: "Spring 2024 SOWK 487w Week 10 - Group Practice Models - Cognitive Behavioral Group Work"
 date:  2024-03-15 08:00:00
 presentation_id: fEqh4s
-permalink: /presentations/fEqh4s/
+permalink: /fEqh4s/
 redirect_from:
   - /presentations/fEqh4s/spring-2024-sowk-487w-week-10-group-practice-models-cognitive-behavioral-group-work
 slides: 

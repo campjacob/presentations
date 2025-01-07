@@ -4,7 +4,7 @@ name: fall-2024-sowk-590-week-07-advanced-seminar-i.md
 title: "Fall 2024 SOWK 590 Week 07 - Advanced Seminar I"
 date:  2024-09-29 21:12:00
 presentation_id: IWsbpl
-permalink: /presentations/IWsbpl/
+permalink: /IWsbpl/
 redirect_from:
   - /presentations/IWsbpl/fall-2024-sowk-590-week-07-advanced-seminar-i
 slides: 

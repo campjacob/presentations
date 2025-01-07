@@ -4,7 +4,7 @@ name: fall-2024-sowk-581-week-01-social-work-practice-with-individuals-families-
 title: "Fall 2024 SOWK 581 Week 01: Social Work Practice with Individuals, Families, & Groups"
 date:  2024-08-24 08:00:00
 presentation_id: fQet1E
-permalink: /presentations/fQet1E/
+permalink: /fQet1E/
 redirect_from:
   - /presentations/fQet1E/fall-2024-sowk-581-week-01-social-work-practice-with-individuals-families-groups
 slides: 

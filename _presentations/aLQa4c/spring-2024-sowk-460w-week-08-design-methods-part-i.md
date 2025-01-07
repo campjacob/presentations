@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-08-design-methods-part-i.md
 title: "Spring 2024 SOWK 460w Week 08: Design Methods Part I"
 date:  2024-03-02 08:00:00
 presentation_id: aLQa4c
-permalink: /presentations/aLQa4c/
+permalink: /aLQa4c/
 redirect_from:
   - /presentations/aLQa4c/spring-2024-sowk-460w-week-08-design-methods-part-i
 slides: 

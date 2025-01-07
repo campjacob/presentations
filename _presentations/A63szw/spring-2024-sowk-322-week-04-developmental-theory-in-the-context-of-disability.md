@@ -4,7 +4,7 @@ name: spring-2024-sowk-322-week-04-developmental-theory-in-the-context-of-disabi
 title: "Spring 2024 SOWK 322 Week 04 - Developmental Theory in the Context of Disability"
 date:  2024-02-03 08:00:00
 presentation_id: A63szw
-permalink: /presentations/A63szw/
+permalink: /A63szw/
 redirect_from:
   - /presentations/A63szw/spring-2024-sowk-322-week-04-developmental-theory-in-the-context-of-disability
 slides: 

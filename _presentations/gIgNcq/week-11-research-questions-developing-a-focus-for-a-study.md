@@ -4,7 +4,7 @@ name: week-11-research-questions-developing-a-focus-for-a-study.md
 title: "SOWK 459 Week 11 - Research Questions - Developing a Focus for a Study"
 date:  2019-10-28 08:00:00
 presentation_id: gIgNcq
-permalink: /presentations/gIgNcq/
+permalink: /gIgNcq/
 redirect_from:
   - /presentations/gIgNcq/week-11-research-questions-developing-a-focus-for-a-study
 slides: 

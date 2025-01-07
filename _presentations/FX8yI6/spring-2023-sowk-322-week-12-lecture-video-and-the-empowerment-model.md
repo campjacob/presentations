@@ -4,7 +4,7 @@ name: spring-2023-sowk-322-week-12-lecture-video-and-the-empowerment-model.md
 title: "Spring 2023 SOWK 322 Week 12 Lecture Video and the Empowerment Model"
 date:  2023-03-31 08:00:00
 presentation_id: FX8yI6
-permalink: /presentations/FX8yI6/
+permalink: /FX8yI6/
 redirect_from:
   - /presentations/FX8yI6/spring-2023-sowk-322-week-12-lecture-video-and-the-empowerment-model
 slides: 

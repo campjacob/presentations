@@ -4,7 +4,7 @@ name: week-04-group-practice-models-mutual-aid.md
 title: "Spring 2020 SOWK 487 Week 04 - Group Practice Models - Mutual Aid"
 date:  2020-02-03 08:00:00
 presentation_id: AkHHK1
-permalink: /presentations/AkHHK1/
+permalink: /AkHHK1/
 redirect_from:
   - /presentations/AkHHK1/week-04-group-practice-models-mutual-aid
 slides: 

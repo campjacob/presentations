@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-01-theoris-of-practice-i-introduction.md
 title: "Fall 2022 SOWK 486w Week 01 - Theoris of Practice I Introduction"
 date:  2022-08-20 08:00:00
 presentation_id: i2wnq2
-permalink: /presentations/i2wnq2/
+permalink: /i2wnq2/
 redirect_from:
   - /presentations/i2wnq2/fall-2022-sowk-486w-week-01-theoris-of-practice-i-introduction
 slides: 

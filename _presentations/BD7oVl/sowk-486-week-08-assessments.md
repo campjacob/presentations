@@ -4,7 +4,7 @@ name: sowk-486-week-08-assessments.md
 title: "SOWK 486 - Week 08 - Assessments"
 date:  2021-10-11 08:00:00
 presentation_id: BD7oVl
-permalink: /presentations/BD7oVl/
+permalink: /BD7oVl/
 redirect_from:
   - /presentations/BD7oVl/sowk-486-week-08-assessments
 slides: 

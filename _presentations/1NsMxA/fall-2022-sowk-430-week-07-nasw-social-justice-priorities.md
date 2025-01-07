@@ -4,7 +4,7 @@ name: fall-2022-sowk-430-week-07-nasw-social-justice-priorities.md
 title: Fall 2022 SOWK 430 Week 07 - NASW Social Justice Priorities
 date: 2022-10-01 08:00:00
 presentation_id: 1NsMxA
-permalink: /presentations/1NsMxA/
+permalink: /1NsMxA/
 redirect_from:
   - /presentations/1NsMxA/fall-2022-sowk-430-week-07-nasw-social-justice-priorities
 slides:

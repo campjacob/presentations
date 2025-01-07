@@ -4,7 +4,7 @@ name: foundational-aspects-of-evidence-based-classrooms-supporting-students-with
 title: "Foundational Aspects of Evidence Based Classrooms: Supporting Students with Emotional and Behavioral Disabilities"
 date:  2019-05-23 08:00:00
 presentation_id: FhBMCJ
-permalink: /presentations/FhBMCJ/
+permalink: /FhBMCJ/
 redirect_from:
   - /presentations/FhBMCJ/foundational-aspects-of-evidence-based-classrooms-supporting-students-with-emotional-and-behavioral-disabilities
 slides: 

@@ -68,16 +68,16 @@
 {% endif %}
 
   <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/src/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/src/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/src/favicon-16x16.png">
-  <link rel="manifest" href="/assets/src/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/src/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/src/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/src/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/assets/src/site.webmanifest' | relative_url }}">
 
 <!-- Stylesheets and Scripts -->
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <script src="/assets/js/bootstrap-auto-dark-mode.js"></script>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <script src="{{ '/assets/js/bootstrap-auto-dark-mode.js' | relative_url }}"></script>
 {% if page.layout == 'single_embed_slide' %}
-  <link rel="stylesheet" href="/assets/css/tiny-slider.css">
+  <link rel="stylesheet" href="{{ '/assets/css/tiny-slider.css' | relative_url }}">
 
 {% include embed_slides_custom_style.htm %}
 

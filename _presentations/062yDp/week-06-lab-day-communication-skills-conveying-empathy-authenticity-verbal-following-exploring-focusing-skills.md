@@ -4,7 +4,7 @@ name: week-06-lab-day-communication-skills-conveying-empathy-authenticity-verbal
 title: "Week 06 - Lab Day - Communication Skills - Conveying Empathy & Authenticity Verbal Following, Exploring, & Focusing Skills"
 date:  2019-09-23 08:00:00
 presentation_id: 062yDp
-permalink: /presentations/062yDp/
+permalink: /062yDp/
 redirect_from:
   - /presentations/062yDp/week-06-lab-day-communication-skills-conveying-empathy-authenticity-verbal-following-exploring-focusing-skills
 slides: 

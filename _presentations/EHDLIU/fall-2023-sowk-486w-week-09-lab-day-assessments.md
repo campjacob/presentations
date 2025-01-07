@@ -4,7 +4,7 @@ name: fall-2023-sowk-486w-week-09-lab-day-assessments.md
 title: "Fall 2023 SOWK 486w Week 09 - Lab Day - Assessments"
 date:  2023-10-15 08:00:00
 presentation_id: EHDLIU
-permalink: /presentations/EHDLIU/
+permalink: /EHDLIU/
 redirect_from:
   - /presentations/EHDLIU/fall-2023-sowk-486w-week-09-lab-day-assessments
 slides: 

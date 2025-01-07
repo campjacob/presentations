@@ -4,7 +4,7 @@ name: fall-2023-sowk-486w-week-03-direct-social-work-practice.md
 title: "Fall 2023 SOWK 486w Week 03 - Direct Social Work Practice"
 date:  2023-09-03 08:00:00
 presentation_id: CuZVSz
-permalink: /presentations/CuZVSz/
+permalink: /CuZVSz/
 redirect_from:
   - /presentations/CuZVSz/fall-2023-sowk-486w-week-03-direct-social-work-practice
 slides: 

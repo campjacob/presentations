@@ -4,7 +4,7 @@ name: fall-2024-sowk-581-week-06-continuing-with-the-ama-dsm-edition.md
 title: "Fall 2024 SOWK 581 Week 06 - Continuing with the AMA - DSM Edition"
 date:  2024-09-27 10:10:00
 presentation_id: 6Ed262
-permalink: /presentations/6Ed262/
+permalink: /6Ed262/
 redirect_from:
   - /presentations/6Ed262/fall-2024-sowk-581-week-06-continuing-with-the-ama-dsm-edition
 slides: 

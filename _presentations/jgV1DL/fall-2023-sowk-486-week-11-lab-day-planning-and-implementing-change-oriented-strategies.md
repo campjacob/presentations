@@ -4,7 +4,7 @@ name: fall-2023-sowk-486-week-11-lab-day-planning-and-implementing-change-orient
 title: "Fall 2023 SOWK 486 - Week 11 - Lab Day - Planning and Implementing Change-Oriented Strategies"
 date:  2023-10-29 08:00:00
 presentation_id: jgV1DL
-permalink: /presentations/jgV1DL/
+permalink: /jgV1DL/
 redirect_from:
   - /presentations/jgV1DL/fall-2023-sowk-486-week-11-lab-day-planning-and-implementing-change-oriented-strategies
 slides: 

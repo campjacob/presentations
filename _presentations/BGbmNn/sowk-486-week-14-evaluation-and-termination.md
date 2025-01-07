@@ -4,7 +4,7 @@ name: sowk-486-week-14-evaluation-and-termination.md
 title: "SOWK 486 Week 14: Evaluation and Termination"
 date:  2020-11-22 08:00:00
 presentation_id: BGbmNn
-permalink: /presentations/BGbmNn/
+permalink: /BGbmNn/
 redirect_from:
   - /presentations/BGbmNn/sowk-486-week-14-evaluation-and-termination
 slides: 

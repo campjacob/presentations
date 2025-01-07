@@ -4,7 +4,7 @@ name: week-01-sowk-486-theories-of-practice-i.md
 title: "Week 01: SOWK 486 Theories of Practice I"
 date:  2020-08-24 08:00:00
 presentation_id: dUAl9n
-permalink: /presentations/dUAl9n/
+permalink: /dUAl9n/
 redirect_from:
   - /presentations/dUAl9n/week-01-sowk-486-theories-of-practice-i
 slides: 

@@ -4,7 +4,7 @@ name: week-12-customer-satisfaction-in-program-evaluation.md
 title: "Week 12 - Customer Satisfaction in Program Evaluation"
 date:  2020-03-30 08:00:00
 presentation_id: 6iFFPR
-permalink: /presentations/6iFFPR/
+permalink: /6iFFPR/
 redirect_from:
   - /presentations/6iFFPR/week-12-customer-satisfaction-in-program-evaluation
 slides: 

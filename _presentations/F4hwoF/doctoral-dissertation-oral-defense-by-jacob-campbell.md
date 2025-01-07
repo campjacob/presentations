@@ -4,7 +4,7 @@ name: doctoral-dissertation-oral-defense-by-jacob-campbell.md
 title: "Doctoral Dissertation Oral Defense by Jacob Campbell"
 date:  2023-03-03 08:00:00
 presentation_id: F4hwoF
-permalink: /presentations/F4hwoF/
+permalink: /F4hwoF/
 redirect_from:
   - /presentations/F4hwoF/doctoral-dissertation-oral-defense-by-jacob-campbell
 slides: 

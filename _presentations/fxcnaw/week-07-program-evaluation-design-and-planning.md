@@ -4,7 +4,7 @@ name: week-07-program-evaluation-design-and-planning.md
 title: "Week 07 - Program Evaluation Design and Planning"
 date:  2020-02-24 08:00:00
 presentation_id: fxcnaw
-permalink: /presentations/fxcnaw/
+permalink: /fxcnaw/
 redirect_from:
   - /presentations/fxcnaw/week-07-program-evaluation-design-and-planning
 slides: 

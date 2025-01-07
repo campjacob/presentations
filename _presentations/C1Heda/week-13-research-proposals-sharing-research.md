@@ -4,7 +4,7 @@ name: week-13-research-proposals-sharing-research.md
 title: "SOWK 459 Week 13: Research Proposals & Sharing Research"
 date:  2019-11-11 08:00:00
 presentation_id: C1Heda
-permalink: /presentations/C1Heda/
+permalink: /C1Heda/
 redirect_from:
   - /presentations/C1Heda/week-13-research-proposals-sharing-research
 slides: 

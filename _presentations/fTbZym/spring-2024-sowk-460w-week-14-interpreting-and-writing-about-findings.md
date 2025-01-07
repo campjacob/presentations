@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-14-interpreting-and-writing-about-findings.md
 title: "Spring 2024 SOWK 460w Week 14: Interpreting and Writing About Findings"
 date:  2024-04-13 08:00:00
 presentation_id: fTbZym
-permalink: /presentations/fTbZym/
+permalink: /fTbZym/
 redirect_from:
   - /presentations/fTbZym/spring-2024-sowk-460w-week-14-interpreting-and-writing-about-findings
 slides: 

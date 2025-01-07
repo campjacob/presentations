@@ -4,7 +4,7 @@ name: fall-2022-sowk-430-week-10-model-for-ethical-decision-making.md
 title: "Fall 2022 SOWK 430 Week 10 - Model for Ethical Decision Making"
 date:  2022-10-23 08:00:00
 presentation_id: GdxAtk
-permalink: /presentations/GdxAtk/
+permalink: /GdxAtk/
 redirect_from:
   - /presentations/GdxAtk/fall-2022-sowk-430-week-10-model-for-ethical-decision-making
 slides: 

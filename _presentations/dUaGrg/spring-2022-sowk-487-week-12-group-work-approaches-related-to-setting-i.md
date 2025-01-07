@@ -4,7 +4,7 @@ name: spring-2022-sowk-487-week-12-group-work-approaches-related-to-setting-i.md
 title: "Spring 2022 SOWK 487 Week 12 - Group Work Approaches Related to Setting I"
 date:  2022-04-03 08:00:00
 presentation_id: dUaGrg
-permalink: /presentations/dUaGrg/
+permalink: /dUaGrg/
 redirect_from:
   - /presentations/dUaGrg/spring-2022-sowk-487-week-12-group-work-approaches-related-to-setting-i
 slides: 

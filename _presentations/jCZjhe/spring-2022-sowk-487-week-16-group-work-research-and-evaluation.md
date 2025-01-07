@@ -4,7 +4,7 @@ name: spring-2022-sowk-487-week-16-group-work-research-and-evaluation.md
 title: "Spring 2022 SOWK 487 Week 16 - Group Work Research and Evaluation"
 date:  2022-05-01 08:00:00
 presentation_id: jCZjhe
-permalink: /presentations/jCZjhe/
+permalink: /jCZjhe/
 redirect_from:
   - /presentations/jCZjhe/spring-2022-sowk-487-week-16-group-work-research-and-evaluation
 slides: 

@@ -4,7 +4,7 @@ name: fall-2023-sowk-486w-week-06-communication-skills-day-02-lab-day.md
 title: "Fall 2023 SOWK 486w Week 06 - Communication Skills Day 02 - Lab Day"
 date:  2023-09-24 08:00:00
 presentation_id: hcfH05
-permalink: /presentations/hcfH05/
+permalink: /hcfH05/
 redirect_from:
   - /presentations/hcfH05/fall-2023-sowk-486w-week-06-communication-skills-day-02-lab-day
 slides: 

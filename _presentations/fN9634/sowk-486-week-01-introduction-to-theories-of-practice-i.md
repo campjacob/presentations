@@ -4,7 +4,7 @@ name: sowk-486-week-01-introduction-to-theories-of-practice-i.md
 title: "SOWK 486 - Week 01 - Introduction to Theories of Practice I"
 date:  2021-08-23 08:00:00
 presentation_id: fN9634
-permalink: /presentations/fN9634/
+permalink: /fN9634/
 redirect_from:
   - /presentations/fN9634/sowk-486-week-01-introduction-to-theories-of-practice-i
 slides: 

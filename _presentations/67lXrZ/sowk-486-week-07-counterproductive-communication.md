@@ -4,7 +4,7 @@ name: sowk-486-week-07-counterproductive-communication.md
 title: "SOWK 486 - Week 07 - Counterproductive Communication"
 date:  2021-10-04 08:00:00
 presentation_id: 67lXrZ
-permalink: /presentations/67lXrZ/
+permalink: /67lXrZ/
 redirect_from:
   - /presentations/67lXrZ/sowk-486-week-07-counterproductive-communication
 slides: 

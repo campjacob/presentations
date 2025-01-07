@@ -4,7 +4,7 @@ name: week-02-theoretical-and-philosophical-foundations-to-groups-part-i.md
 title: "Spring 2020 SOWK 487 Week 02 - Theoretical and Philosophical Foundations to Groups part I"
 date:  2020-01-20 08:00:00
 presentation_id: KncNAS
-permalink: /presentations/KncNAS/
+permalink: /KncNAS/
 redirect_from:
   - /presentations/KncNAS/week-02-theoretical-and-philosophical-foundations-to-groups-part-i
 slides: 

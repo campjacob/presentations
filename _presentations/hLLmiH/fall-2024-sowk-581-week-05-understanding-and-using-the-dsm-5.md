@@ -4,7 +4,7 @@ name: fall-2024-sowk-581-week-05-understanding-and-using-the-dsm-5.md
 title: "Fall 2024 SOWK 581 Week 05 - Understanding and using the DSM-5"
 date:  2024-09-21 00:03:00
 presentation_id: hLLmiH
-permalink: /presentations/hLLmiH/
+permalink: /hLLmiH/
 redirect_from:
   - /presentations/hLLmiH/fall-2024-sowk-581-week-05-understanding-and-using-the-dsm-5
 slides: 

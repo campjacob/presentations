@@ -49,11 +49,11 @@
     <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushPresentationPages">
       <div class="container-lg">
       <ul class="list-group list-group-horizontal small fw-lighter text-decoration-none text-center">
-        <li class="list-group-item{% if page.url == '/presentations/' %} active{% endif %}"><a href="/presentations/">Presentation Home</a></li>
-        <li class="list-group-item{% if page.url == '/presentations/bio/' %} active{% endif %}"><a href="/presentations/bio/">About Presentations</a></li>
-        <li class="list-group-item{% if page.url == '/presentations/all-presentations/' %} active{% endif %}"><a href="/presentations/all-presentations/">All Presentations</a></li>
-        <li class="list-group-item{% if page.url == '/presentations/presentation-tags/' %} active{% endif %}"><a href="/presentations/presentation-tags/">Presentations by Tags</a></li>
-        <li class="list-group-item{% if page.url == '/presentations/all-videos/' %} active{% endif %}"><a href="/presentations/all-videos/">Presentations with Videos</a></li>
+        <li class="list-group-item{% if page.url == '/' | relative_url %} active{% endif %}"><a href="{{ '/' | relative_url }}">Presentation Home</a></li>
+        <li class="list-group-item{% if page.url == '/bio/' | relative_url %} active{% endif %}"><a href="{{ '/bio/' | relative_url }}">About Presentations</a></li>
+        <li class="list-group-item{% if page.url == '/all-presentations/' | relative_url %} active{% endif %}"><a href="{{ '/all-presentations/' | relative_url }}">All Presentations</a></li>
+        <li class="list-group-item{% if page.url == '/presentation-tags/' | relative_url %} active{% endif %}"><a href="{{ '/presentation-tags/' | relative_url }}">Presentations by Tags</a></li>
+        <li class="list-group-item{% if page.url == '/all-videos/' | relative_url %} active{% endif %}"><a href="{{ '/all-videos/' | relative_url }}">Presentations with Videos</a></li>
       </ul>
     </div>
     </div>

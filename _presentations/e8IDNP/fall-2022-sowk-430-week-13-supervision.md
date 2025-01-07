@@ -4,7 +4,7 @@ name: fall-2022-sowk-430-week-13-supervision.md
 title: "Fall 2022 SOWK 430 Week 13 - Supervision"
 date:  2022-11-12 08:00:00
 presentation_id: e8IDNP
-permalink: /presentations/e8IDNP/
+permalink: /e8IDNP/
 redirect_from:
   - /presentations/e8IDNP/fall-2022-sowk-430-week-13-supervision
 slides: 

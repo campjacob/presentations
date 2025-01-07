@@ -4,7 +4,7 @@ name: week-11-lab-day-planning-in-generalist-practice.md
 title: "SOWK 486 Week 11 - Lab Day - Planning in Generalist Practice"
 date:  2019-10-28 08:00:00
 presentation_id: IcPBVF
-permalink: /presentations/IcPBVF/
+permalink: /IcPBVF/
 redirect_from:
   - /presentations/IcPBVF/week-11-lab-day-planning-in-generalist-practice
 slides: 

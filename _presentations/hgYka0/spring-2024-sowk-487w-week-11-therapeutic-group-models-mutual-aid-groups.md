@@ -4,7 +4,7 @@ name: spring-2024-sowk-487w-week-11-therapeutic-group-models-mutual-aid-groups.m
 title: "Spring 2024 SOWK 487w Week 11 - Therapeutic Group Models - Mutual Aid Groups"
 date:  2024-03-23 08:00:00
 presentation_id: hgYka0
-permalink: /presentations/hgYka0/
+permalink: /hgYka0/
 redirect_from:
   - /presentations/hgYka0/spring-2024-sowk-487w-week-11-therapeutic-group-models-mutual-aid-groups
 slides: 

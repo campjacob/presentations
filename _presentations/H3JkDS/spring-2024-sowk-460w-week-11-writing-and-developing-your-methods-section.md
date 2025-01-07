@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-11-writing-and-developing-your-methods-section.
 title: "Spring 2024 SOWK 460w Week 11 - Writing and Developing Your Methods Section"
 date:  2024-03-23 08:00:00
 presentation_id: H3JkDS
-permalink: /presentations/H3JkDS/
+permalink: /H3JkDS/
 redirect_from:
   - /presentations/H3JkDS/spring-2024-sowk-460w-week-11-writing-and-developing-your-methods-section
 slides: 

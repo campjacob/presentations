@@ -4,7 +4,7 @@ name: spring-2023-sowk-487-week-14-interdisciplinary-teams-group-work-in-organiz
 title: "Spring 2023 SOWK 487 Week 14 - Interdisciplinary Teams: Group Work in Organizations and Community Settings"
 date:  2023-04-15 08:00:00
 presentation_id: aNpnch
-permalink: /presentations/aNpnch/
+permalink: /aNpnch/
 redirect_from:
   - /presentations/aNpnch/spring-2023-sowk-487-week-14-interdisciplinary-teams-group-work-in-organizations-and-community-settings
 slides: 

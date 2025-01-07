@@ -4,7 +4,7 @@ name: spring-2024-sowk-487w-week-03-enhancing-relationships-and-working-with-fam
 title: "Spring 2024 SOWK 487w Week 03 - Enhancing Relationships and Working with Families"
 date:  2024-01-27 08:00:00
 presentation_id: 1YU3My
-permalink: /presentations/1YU3My/
+permalink: /1YU3My/
 redirect_from:
   - /presentations/1YU3My/spring-2024-sowk-487w-week-03-enhancing-relationships-and-working-with-families
 slides: 

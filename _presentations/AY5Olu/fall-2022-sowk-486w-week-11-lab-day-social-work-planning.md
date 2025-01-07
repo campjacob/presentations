@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-11-lab-day-social-work-planning.md
 title: "Fall 2022 SOWK 486w Week 11: Lab Day - Social Work Planning"
 date:  2022-10-30 08:00:00
 presentation_id: AY5Olu
-permalink: /presentations/AY5Olu/
+permalink: /AY5Olu/
 redirect_from:
   - /presentations/AY5Olu/fall-2022-sowk-486w-week-11-lab-day-social-work-planning
 slides: 

@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-04-overview-of-the-helping-process.md
 title: "Fall 2022 SOWK 486w Week 04 - Overview of the Helping Process"
 date:  2022-09-10 08:00:00
 presentation_id: B7trhi
-permalink: /presentations/B7trhi/
+permalink: /B7trhi/
 redirect_from:
   - /presentations/B7trhi/fall-2022-sowk-486w-week-04-overview-of-the-helping-process
 slides: 

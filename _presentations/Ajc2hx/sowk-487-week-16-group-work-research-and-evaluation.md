@@ -4,7 +4,7 @@ name: sowk-487-week-16-group-work-research-and-evaluation.md
 title: "SOWK 487 Week 16 - Group Work Research and Evaluation"
 date:  2021-04-25 08:00:00
 presentation_id: Ajc2hx
-permalink: /presentations/Ajc2hx/
+permalink: /Ajc2hx/
 redirect_from:
   - /presentations/Ajc2hx/sowk-487-week-16-group-work-research-and-evaluation
 slides: 

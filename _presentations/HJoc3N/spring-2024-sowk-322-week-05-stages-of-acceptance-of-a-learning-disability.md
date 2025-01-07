@@ -4,7 +4,7 @@ name: spring-2024-sowk-322-week-05-stages-of-acceptance-of-a-learning-disability
 title: "Spring 2024 SOWK 322 Week 05 - Stages of Acceptance of a Learning Disability"
 date: 2024-02-10 08:00:00
 presentation_id: HJoc3N
-permalink: /presentations/HJoc3N/
+permalink: /HJoc3N/
 redirect_from:
   - /presentations/HJoc3N/spring-2024-sowk-322-week-05-stages-of-acceptance-of-a-learning-disability
 slides: 

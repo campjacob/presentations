@@ -4,7 +4,7 @@ name: fall-2022-sowk-430-week-15-social-media-and-technology.md
 title: "Fall 2022 SOWK 430 Week 15 - Social Media and Technology"
 date:  2022-11-27 08:00:00
 presentation_id: iD8yXx
-permalink: /presentations/iD8yXx/
+permalink: /iD8yXx/
 redirect_from:
   - /presentations/iD8yXx/fall-2022-sowk-430-week-15-social-media-and-technology
 slides: 

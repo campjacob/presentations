@@ -4,7 +4,7 @@ name: week-15-group-work-in-organizational-and-community-settings-part-ii.md
 title: "Week 15 - Group Work in Organizational and Community Settings Part II"
 date:  2020-04-20 08:00:00
 presentation_id: bcHAaT
-permalink: /presentations/bcHAaT/
+permalink: /bcHAaT/
 redirect_from:
   - /presentations/bcHAaT/week-15-group-work-in-organizational-and-community-settings-part-ii
 slides: 

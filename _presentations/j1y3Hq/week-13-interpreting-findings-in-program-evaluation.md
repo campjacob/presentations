@@ -4,7 +4,7 @@ name: week-13-interpreting-findings-in-program-evaluation.md
 title: "Week 13 - Interpreting Findings in Program Evaluation"
 date:  2020-04-06 08:00:00
 presentation_id: j1y3Hq
-permalink: /presentations/j1y3Hq/
+permalink: /j1y3Hq/
 redirect_from:
   - /presentations/j1y3Hq/week-13-interpreting-findings-in-program-evaluation
 slides: 

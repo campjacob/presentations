@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-13-effecting-change-empathy-confrontation-barrier
 title: "Fall 2022 SOWK 486w Week 13 - Effecting Change - Empathy, Confrontation, & Barriers New"
 date:  2022-11-12 08:00:00
 presentation_id: 65MKJU
-permalink: /presentations/65MKJU/
+permalink: /65MKJU/
 redirect_from:
   - /presentations/65MKJU/fall-2022-sowk-486w-week-13-effecting-change-empathy-confrontation-barriers-new
 slides: 

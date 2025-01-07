@@ -4,7 +4,7 @@ name: spring-2023-sowk-322-week-03-special-education-services-in-schools.md
 title: "Spring 2023 SOWK 322 Week 03 - Special Education Services in Schools"
 date:  2023-01-28 08:00:00
 presentation_id: KGMuaR
-permalink: /presentations/KGMuaR/
+permalink: /KGMuaR/
 redirect_from:
   - /presentations/KGMuaR/spring-2023-sowk-322-week-03-special-education-services-in-schools
 slides: 

@@ -4,7 +4,7 @@ name: spring-2023-sowk-487w-week-03-enhancing-relationships-and-working-with-fam
 title: "Spring 2023 SOWK 487w Week 03 - Enhancing Relationships and Working with Families"
 date:  2023-01-28 08:00:00
 presentation_id: fIztYy
-permalink: /presentations/fIztYy/
+permalink: /fIztYy/
 redirect_from:
   - /presentations/fIztYy/spring-2023-sowk-487w-week-03-enhancing-relationships-and-working-with-families
 slides: 

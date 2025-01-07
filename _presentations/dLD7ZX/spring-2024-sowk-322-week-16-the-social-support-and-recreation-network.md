@@ -4,7 +4,7 @@ name: spring-2024-sowk-322-week-16-the-social-support-and-recreation-network.md
 title: "Spring 2024 SOWK 322 Week 16: The Social Support and Recreation Network"
 date:  2024-04-20 08:00:00
 presentation_id: dLD7ZX
-permalink: /presentations/dLD7ZX/
+permalink: /dLD7ZX/
 redirect_from:
   - /presentations/dLD7ZX/spring-2024-sowk-322-week-16-the-social-support-and-recreation-network
 slides: 

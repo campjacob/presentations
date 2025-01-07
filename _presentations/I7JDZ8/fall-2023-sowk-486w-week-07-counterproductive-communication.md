@@ -4,7 +4,7 @@ name: fall-2023-sowk-486w-week-07-counterproductive-communication.md
 title: "Fall 2023 SOWK 486w Week 07 - Counterproductive Communication"
 date:  2023-10-01 08:00:00
 presentation_id: I7JDZ8
-permalink: /presentations/I7JDZ8/
+permalink: /I7JDZ8/
 redirect_from:
   - /presentations/I7JDZ8/fall-2023-sowk-486w-week-07-counterproductive-communication
 slides: 

@@ -4,7 +4,7 @@ name: sowk-322-week-06-hierarchy-in-academic-sources.md
 title: "SOWK 322 Week 06 - Hierarchy in Academic Sources"
 date:  2022-02-13 08:00:00
 presentation_id: 4OK949
-permalink: /presentations/4OK949/
+permalink: /4OK949/
 redirect_from:
   - /presentations/4OK949/sowk-322-week-06-hierarchy-in-academic-sources
 slides: 

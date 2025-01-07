@@ -4,7 +4,7 @@ name: week-14-evaluation-and-termination-the-ending-of-the-professional-relation
 title: "SOWK 486 Week 14 - Evaluation and Termination: The Ending of the Professional Relationship"
 date:  2019-11-18 08:00:00
 presentation_id: 3HlfMg
-permalink: /presentations/3HlfMg/
+permalink: /3HlfMg/
 redirect_from:
   - /presentations/3HlfMg/week-14-evaluation-and-termination-the-ending-of-the-professional-relationship
 slides: 

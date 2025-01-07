@@ -4,7 +4,7 @@ name: fall-2024-sowk-590-week-03-advanced-seminar-i.md
 title: "Fall 2024 SOWK 590 Week 03 - Advanced Seminar I"
 date:  2024-09-07 09:44:00
 presentation_id: CFZgvU
-permalink: /presentations/CFZgvU/
+permalink: /CFZgvU/
 redirect_from:
   - /presentations/CFZgvU/fall-2024-sowk-590-week-03-advanced-seminar-i
 slides: 

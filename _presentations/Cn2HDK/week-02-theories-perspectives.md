@@ -4,7 +4,7 @@ name: week-02-theories-perspectives.md
 title: "Week 02 - Theories & Perspectives"
 date:  2019-08-26 08:00:00
 presentation_id: Cn2HDK
-permalink: /presentations/Cn2HDK/
+permalink: /Cn2HDK/
 redirect_from:
   - /presentations/Cn2HDK/week-02-theories-perspectives
 slides: 

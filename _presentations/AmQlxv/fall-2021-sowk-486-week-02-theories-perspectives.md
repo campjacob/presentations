@@ -4,7 +4,7 @@ name: fall-2021-sowk-486-week-02-theories-perspectives.md
 title: "Fall 2021  SOWK 486 - Week 02 - Theories & Perspectives"
 date:  2021-08-30 08:00:00
 presentation_id: AmQlxv
-permalink: /presentations/AmQlxv/
+permalink: /AmQlxv/
 redirect_from:
   - /presentations/AmQlxv/fall-2021-sowk-486-week-02-theories-perspectives
 slides: 

@@ -4,7 +4,7 @@ name: sowk-322-week-03-special-education-services-in-schools.md
 title: "SOWK 322 - Week 03 - Special Education Services in Schools"
 date:  2022-01-29 08:00:00
 presentation_id: 009mni
-permalink: /presentations/009mni/
+permalink: /009mni/
 redirect_from:
   - /presentations/009mni/sowk-322-week-03-special-education-services-in-schools
 slides: 

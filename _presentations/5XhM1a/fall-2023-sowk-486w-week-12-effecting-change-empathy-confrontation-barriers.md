@@ -4,7 +4,7 @@ name: fall-2023-sowk-486w-week-12-effecting-change-empathy-confrontation-barrier
 title: "Fall 2023 SOWK 486w Week 12 - Effecting Change - Empathy, Confrontation, & Barriers"
 date:  2023-11-05 08:00:00
 presentation_id: 5XhM1a
-permalink: /presentations/5XhM1a/
+permalink: /5XhM1a/
 redirect_from:
   - /presentations/5XhM1a/fall-2023-sowk-486w-week-12-effecting-change-empathy-confrontation-barriers
 slides: 

@@ -4,7 +4,7 @@ name: spring-2024-sowk-487w-week-07-theoretical-framework-in-group-facilitation.
 title: "Spring 2024 SOWK 487w Week 07: Theoretical Framework in Group Facilitation"
 date:  2024-02-24 08:00:00
 presentation_id: kCpWH7
-permalink: /presentations/kCpWH7/
+permalink: /kCpWH7/
 redirect_from:
   - /presentations/kCpWH7/spring-2024-sowk-487w-week-07-theoretical-framework-in-group-facilitation
 slides: 

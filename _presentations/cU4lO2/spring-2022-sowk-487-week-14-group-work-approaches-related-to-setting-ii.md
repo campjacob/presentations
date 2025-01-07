@@ -4,7 +4,7 @@ name: spring-2022-sowk-487-week-14-group-work-approaches-related-to-setting-ii.m
 title: "Spring 2022 SOWK 487 Week 14 - Group Work Approaches Related to Setting II"
 date:  2022-04-17 08:00:00
 presentation_id: cU4lO2
-permalink: /presentations/cU4lO2/
+permalink: /cU4lO2/
 redirect_from:
   - /presentations/cU4lO2/spring-2022-sowk-487-week-14-group-work-approaches-related-to-setting-ii
 slides: 

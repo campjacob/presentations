@@ -4,7 +4,7 @@ name: week-06-communication-skills.md
 title: "Week 06 - Communication Skills"
 date:  2020-09-27 08:00:00
 presentation_id: 8hWHQi
-permalink: /presentations/8hWHQi/
+permalink: /8hWHQi/
 redirect_from:
   - /presentations/8hWHQi/week-06-communication-skills
 slides: 

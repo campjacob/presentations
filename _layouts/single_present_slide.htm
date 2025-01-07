@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="/assets/css/reveal.css">
+    <link rel="stylesheet" href="{{ '/assets/css/reveal.css' | relative_url }}">
     {% include head.htm %}
     <style>
         body {
@@ -23,7 +23,7 @@
 	</div>
 </div>
 
-<script src="/assets/js/reveal.js"></script>
+<script src="{{ '/assets/js/reveal.js' | relative_url }}"></script>
 <script>
         // Initialize Reveal.js with default settings
         Reveal.initialize({

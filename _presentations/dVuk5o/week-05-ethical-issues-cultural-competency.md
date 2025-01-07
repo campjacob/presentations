@@ -4,7 +4,7 @@ name: week-05-ethical-issues-cultural-competency.md
 title: "Spring 2020 SOWK 460 Week 05 - Ethical Issues & Cultural Competency"
 date:  2020-02-10 08:00:00
 presentation_id: dVuk5o
-permalink: /presentations/dVuk5o/
+permalink: /dVuk5o/
 redirect_from:
   - /presentations/dVuk5o/week-05-ethical-issues-cultural-competency
 slides: 

@@ -4,7 +4,7 @@ name: spring-2024-sowk-487w-week-02-understanding-and-assessing-families.md
 title: "Spring 2024 SOWK 487w Week 02 - Understanding and Assessing Families"
 date:  2024-01-20 08:00:00
 presentation_id: 2YzYqc
-permalink: /presentations/2YzYqc/
+permalink: /2YzYqc/
 redirect_from:
   - /presentations/2YzYqc/spring-2024-sowk-487w-week-02-understanding-and-assessing-families
 slides: 

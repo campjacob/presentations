@@ -4,7 +4,7 @@ name: sowk-487-week-15-group-work-in-organizational-and-community-settings-part-
 title: "SOWK 487 Week 15 - Group Work in Organizational and Community Settings Part II"
 date:  2021-04-18 08:00:00
 presentation_id: C3R9HU
-permalink: /presentations/C3R9HU/
+permalink: /C3R9HU/
 redirect_from:
   - /presentations/C3R9HU/sowk-487-week-15-group-work-in-organizational-and-community-settings-part-ii
 slides: 

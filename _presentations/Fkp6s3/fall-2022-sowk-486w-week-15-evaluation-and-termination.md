@@ -4,7 +4,7 @@ name: fall-2022-sowk-486w-week-15-evaluation-and-termination.md
 title: "Fall 2022 SOWK 486w Week 15 - Evaluation and Termination"
 date:  2022-11-27 08:00:00
 presentation_id: Fkp6s3
-permalink: /presentations/Fkp6s3/
+permalink: /Fkp6s3/
 redirect_from:
   - /presentations/Fkp6s3/fall-2022-sowk-486w-week-15-evaluation-and-termination
 slides: 

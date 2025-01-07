@@ -4,7 +4,7 @@ name: spring-2024-sowk-460w-week-07-developing-a-program-description.md
 title: "Spring 2024 SOWK 460w Week 07 - Developing a Program Description"
 date:  2024-02-24 08:00:00
 presentation_id: dUKXxV
-permalink: /presentations/dUKXxV/
+permalink: /dUKXxV/
 redirect_from:
   - /presentations/dUKXxV/spring-2024-sowk-460w-week-07-developing-a-program-description
 slides: 

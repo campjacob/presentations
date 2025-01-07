@@ -4,7 +4,7 @@ name: sowk-487-week-08-group-practice-models-mutual-aid.md
 title: "SOWK 487 - Week 08 - Group Practice Models - Mutual Aid"
 date:  2022-03-06 08:00:00
 presentation_id: DYXAst
-permalink: /presentations/DYXAst/
+permalink: /DYXAst/
 redirect_from:
   - /presentations/DYXAst/sowk-487-week-08-group-practice-models-mutual-aid
 slides: 
