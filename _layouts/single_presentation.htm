@@ -8,7 +8,7 @@ layout: default
 <div class="row">
   <div class="col"></div>
   <div class="col-md-9 text-center">
-    <p>A presentation at {{ page.location }} in {{ page.date | date: "%B %Y" }} by <a href="/contact">Jacob Campbell</a> and is tagged with
+    <p>A presentation at {{ page.location }} in {{ page.date | date: "%B %Y" }} by <a href="https://jacobrcampbell.com/contact">Jacob Campbell</a> and is tagged with
       {% for hash in tag_hashes %}
       {% assign keyValue = hash | split: '#' %}
       {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
