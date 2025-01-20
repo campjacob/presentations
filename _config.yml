@@ -12,7 +12,7 @@ og_image: "/assets/media/2025-og-site-wide-fallback.jpg"
 # Previously had >- this means to ignore newlines until "baseurl:"
 # Baseurl will likely need to change when merged.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://presentations.jacobrcampbell.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  campjacob
 
 # Build settings
