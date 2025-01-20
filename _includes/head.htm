@@ -2,15 +2,21 @@
 {%- assign seo_title = page_title | append: " " | append: title_separator | append: " " | append: site.title | replace: '|', '&#124;' -%}
 {%- assign page_title = page_title | markdownify | strip_html | strip_newlines | escape_once -%}
 {%- assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once -%}
-{%- assign canonical_url = page.canonical_url | default: page.url | replace: "/index.html", "/" | absolute_url -%}
-{%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
-{%- if seo_description -%}
-  {%- assign seo_description = seo_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | strip -%}
-{%- endif -%}
+{%- assign canonical_url = page.canonical_url | default: page.url | replace: "/embed/", "/" | replace: "/slides/", "/" | replace: "/present/", "/" | absolute_url -%}
 {%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image | absolute_url | escape -%}
+{%- assign seo_description = seo_description | default: page.description | default: page.presentation_description | default: page.presentation_description_md | default: page.excerpt | strip | default: site.description -%}
+{%- if page.presentation_description -%}
+  {%- assign seo_description = page.presentation_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | strip -%}
+{%- elsif page.presentation_description_md -%}
+  {%- assign seo_description = page.presentation_description_md | url_decode | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once | strip -%}
+{%- endif -%}
 {%- assign page_teaser_image = page.header.teaser | default: page.header.teaser | absolute_url | escape -%}
 {%- assign site_og_image = site.og_image | absolute_url | escape -%}
-{%- assign og_type = page.date | default: "website" | assign: "article" -%}
+{%- if page.date -%}
+  {%- assign og_type = "article" -%}
+{%- else -%}
+  {%- assign og_type = "website" -%}
+{%- endif -%}
 
 <!-- Charset and Viewport -->
 <meta charset="utf-8">
@@ -18,58 +24,105 @@
 
 <!-- Title and Description -->
 <title>{{ page.title }} - {{ site.title }}</title>
-<meta name="description" content="{{ seo_description }}">
+<meta name="description" content="{{ seo_description | truncate: 150 }}">
 <meta name="author" content="Jacob Campbell">
-<meta name="fediverse:creator" content="@Jacob@social.vsp.ink">
+<meta name="fediverse:creator" content="https://social.vsp.ink/@Jacob">
 <link rel="canonical" href="{{ canonical_url }}">
-{% if page.date %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
-{% if og_type == "article" %}
-  <meta property="article:author" content="Jacob Campbell">
-  {% if page.last_modified_at %}
-    <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
-  {% endif %}
-{% endif %}
-{% if paginator.previous_page %}<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">{% endif %}
-{% if paginator.next_page %}<link rel="next" href="{{ paginator.next_page_path | absolute_url }}">{% endif %}
+{%- if page.date -%}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{%- endif -%}
+{%- if og_type == "article" -%}
+<meta property="article:author" content="Jacob Campbell">
+{%- endif -%}
+{%- if page.last_modified_at -%}
+<meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
+{%- endif -%}
+{%- if paginator.previous_page -%}
+<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
+{%- endif -%}
+{%- if paginator.next_page -%}
+<link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
+{%- endif -%}
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title }}">
-{% if seo_description %}<meta property="og:description" content="{{ seo_description }}">{% endif %}
-{% if page_teaser_image %}
-  <meta property="og:image" content="{{ page_teaser_image }}">
-{% elsif page_large_image %}
-  <meta property="og:image" content="{{ page_large_image }}">
-{% endif %}
+<meta property="article:author" content="https://social.vsp.ink/@Jacob">
+<meta property="article:publisher" content="https://jacobrcampbell.com">
+<meta property="og:locale" content="en_US">
+<meta property="og:description" content="{{ seo_description | truncate: 150 }}">
+{%- if page_teaser_image -%}
+<meta property="og:image" content="{{ page_teaser_image | absolute_url }}">
+{%- elsif page_large_image -%}
+<meta property="og:image" content="{{ page_large_image | absolute_url }}">
+{%- else -%}
+<meta property="og:image" content="{{ site.og_image | absolute_url }}">
+{%- endif -%}
 <meta property="og:url" content="{{ canonical_url }}">
 <meta property="og:type" content="{{ og_type }}">
 
 <!-- Twitter Card Tags -->
 <meta name="twitter:creator" content="@campjacob">
 <meta name="twitter:title" content="{{ page_title }}">
-<meta name="twitter:description" content="{{ seo_description }}">
+<meta name="twitter:description" content="{{ seo_description | truncate: 150  }}">
 <meta name="twitter:url" content="{{ canonical_url }}">
-{% if page_large_image %}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ page_large_image }}">
-{% else %}
-  <meta name="twitter:card" content="summary">
-  {% if page_teaser_image %}<meta name="twitter:image" content="{{ page_teaser_image }}">{% endif %}
-{% endif %}
+{%- if page_large_image -%}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ page_large_image | absolute_url }}">
+{%- elsif page_teaser_image -%}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ page_teaser_image | absolute_url }}">
+{%- else -%}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+{%- endif -%}
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/src/apple-touch-icon.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/src/favicon-32x32.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/src/favicon-16x16.png' | relative_url }}">
 <link rel="manifest" href="{{ '/assets/src/site.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#fd7e14">
 
 <!-- Stylesheets and Scripts -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <script src="{{ '/assets/js/bootstrap-auto-dark-mode.js' | relative_url }}"></script>
-{% if page.layout == 'single_embed_slide' %}
+{%- if page.layout == 'single_embed_slide' -%}
   <link rel="stylesheet" href="{{ '/assets/css/tiny-slider.css' | relative_url }}">
   {% include embed_slides_custom_style.htm %}
-{% endif %}
+{%- endif -%}
+
+<!-- Schema.org Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ og_type }}",
+  "headline": "{{ page.title }}",
+  "author": {
+    "@type": "Person",
+    "name": "Jacob Campbell"
+  },
+  "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.datePublished | default: site.time | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ canonical_url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/media/2025-jacob-campbell-logo.svg' | absolute_url }}"
+    }
+  },
+  "description": "{{ seo_description }}",
+  "image": "{{ page_teaser_image | default: page_large_image | default: site.og_image | absolute_url }}"
+}
+</script>
 
 <!-- Umami Analytics -->
 <script defer src="https://analytics.vsp.ink/script.js" data-website-id="ddd9fe73-587b-452d-8893-8ac19842f85b"></script>
+
+<!-- Copyright -->
+<meta name="copyright" content="© {{ site.title }} 2025">

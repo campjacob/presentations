@@ -111,8 +111,7 @@ downloadable_slides: deck-9742.pdf
 slides_count: 11
 header:
   teaser: deck-9742-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=47ae34b3-c7f6-4c9b-81ad-afa000142ca2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=47ae34b3-c7f6-4c9b-81ad-afa000142ca2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University

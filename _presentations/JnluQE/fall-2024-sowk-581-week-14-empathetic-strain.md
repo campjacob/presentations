@@ -26,8 +26,7 @@ downloadable_slides: deck-JnluQE.pdf
 slides_count: 6
 header:
   teaser: deck-JnluQE-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9357a7e6-7612-4d53-bab0-b231014b48da&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Fall 2024 SOWK 581 (0) - Week 14 - Empathy-Based Strain" ></iframe> 
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9357a7e6-7612-4d53-bab0-b231014b48da&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University

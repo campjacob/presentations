@@ -78,7 +78,9 @@ layout: default
   <div class="col"></div>
   <div class="col-md-6">
     <h2>Video</h2>
-      {{ page.presentation_video }}
+      <div class="ratio ratio-16x9">
+        <iframe src="{{ page.presentation_video }}" title="Presentation Video" allowfullscreen></iframe>
+      </div>
   </div>
   <div class="col"></div>
 

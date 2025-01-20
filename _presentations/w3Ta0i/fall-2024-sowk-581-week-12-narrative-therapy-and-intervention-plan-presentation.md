@@ -26,8 +26,7 @@ downloadable_slides: deck-w3Ta0i.pdf
 slides_count: 6
 header:
   teaser: deck-w3Ta0i-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ccc43fc5-a84a-48af-95b4-b22101447103&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Fall 2024 SOWK 581 (0) - Week 12" ></iframe>
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ccc43fc5-a84a-48af-95b4-b22101447103&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University

@@ -606,11 +606,9 @@ downloadable_slides: deck-10610.pdf
 slides_count: 44
 header:
   teaser: deck-10610-thumb-0.jpeg
-presentation_video: >
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DD7X0XtrY1U?si=xJ4TvWxsfLoftxVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+presentation_video: "https://www.youtube.com/embed/DD7X0XtrY1U?si=xJ4TvWxsfLoftxVD"
 location: "Heritage University"
 tags: 
   - California Institute of Integral Studies 
   - PhD. Dissertation Defense
-
 ---

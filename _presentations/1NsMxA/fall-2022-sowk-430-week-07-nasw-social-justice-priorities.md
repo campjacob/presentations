@@ -25,8 +25,7 @@ downloadable_slides: deck-8944.pdf
 slides_count: 4
 header:
   teaser: deck-8944-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=0d133f8c-2b7d-436e-bb5f-af21015055f6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=0d133f8c-2b7d-436e-bb5f-af21015055f6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
 location: Heritage University
 tags:
   - Heritage University

@@ -40,4 +40,4 @@ permalink: /all-presentations/
       </a>
     </div>
   {%- endfor -%}
-</div></section></div>
+</div></section>

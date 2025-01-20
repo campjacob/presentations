@@ -45,4 +45,3 @@ permalink: /all-videos/
   {%- endfor -%}
   </div>
 </section>
-</div>

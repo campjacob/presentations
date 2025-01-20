@@ -102,8 +102,7 @@ downloadable_slides: deck-7811.pdf
 slides_count: 10
 header:
   teaser: deck-7811-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2511c996-7462-4638-bd8c-ae3400465bb8&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2511c996-7462-4638-bd8c-ae3400465bb8&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University

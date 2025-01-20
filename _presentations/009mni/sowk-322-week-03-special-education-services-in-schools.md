@@ -193,8 +193,7 @@ downloadable_slides: deck-7783.pdf
 slides_count: 18
 header:
   teaser: deck-7783-thumb-0.jpeg
-presentation_video: >
-  <iframe src="https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=62716fc8-513b-4865-bc6d-ae2c016a36a1&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=62716fc8-513b-4865-bc6d-ae2c016a36a1&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University

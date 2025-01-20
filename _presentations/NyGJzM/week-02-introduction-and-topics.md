@@ -157,8 +157,7 @@ downloadable_slides: deck-3507.pdf
 slides_count: 34
 header:
   teaser: deck-3507-thumb-0.jpeg
-presentation_video: >
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7r39mZb8L7E?si=Yvm6u6zs2xMj2JRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+presentation_video: "https://www.youtube.com/embed/7r39mZb8L7E?si=Yvm6u6zs2xMj2JRu"
 location: "Heritage University"
 tags:
   - Heritage University
