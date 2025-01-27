@@ -7,13 +7,12 @@
 // SCSS Variable Overides
 
 $primary: #fd7e14; // Regular orange color
+$orange: #fd7e14;  // Define $orange to fix SCSS error
 
-
-// Import Bootstrap variables to apply the custom variables
+// Import Bootstrap variables and Bootstrap itself
 @import "bootstrap/variables";
+@import "bootstrap/bootstrap";
 
-// Import Bootstrap to apply the custom variables throughout
-@import 'bootstrap/bootstrap';
 
 // Import FontAwesome icons
 @import 'fontawesome/brands';
@@ -21,10 +20,6 @@ $primary: #fd7e14; // Regular orange color
 @import 'fontawesome/regular';
 @import 'fontawesome/solid';
 
-/*
-@import 'bulma/bulma'; 
-@import 'pico/scss/pico';
-*/
 
 // Custom styles
 .orange { 
