@@ -45,11 +45,17 @@ permalink: /
           <div class="row">
             <ul class="list-inline">
               <li class="list-inline-item icon-link fw-bold"><i class="fa-solid fa-calendar-days"></i> Date:</li>
-              <li class="list-inline-item">{{ presentation.date | date: "%A, %B %d, %Y" }}</li>
+              <li class="list-inline-item">{{ presentation.date | date: "%B %Y" }}</li>
             </ul>
           </div>
           <div class="row">
-            {{ presentation.presentation_description }}
+            <div class="col">
+            {% if presentation.presentation_description_md %}
+              {{ presentation.presentation_description_md | url_decode | markdownify }}
+            {% else %}
+              {{ presentation.presentation_description }}
+            {% endif %}
+            </div>
           </div>
         </div>
         <div class="col">
