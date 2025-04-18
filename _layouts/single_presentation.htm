@@ -3,17 +3,38 @@ layout: default
 ---
 
 <h1 class="fw-bolder text-center">{{ page.title }}</h1>
-{% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}#{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_hashes = page_tags | split: ',' | sort %}
+
+{% assign page_tags = page.tags | sort_natural %}
+{% assign presentations_tags = site.presentations | map: "tags" | join: "," | split: "," %}
+{% assign tags = presentations_tags | uniq %}
+
+{%- assign tag_freq_list = "" -%}
+
+{%- for tag in page_tags -%}
+  {% assign count = 0 %}
+  {% for presentation in site.presentations %}
+    {% if presentation.tags contains tag %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% capture tag_line %}{{ count | prepend: "000" | slice: -3, 3 }}#{{ tag | downcase }}#{{ tag }}{% endcapture %}
+  {% assign tag_freq_list = tag_freq_list | append: tag_line | append: "," %}
+{%- endfor -%}
+
+{% assign tag_freq_array = tag_freq_list | split: "," | sort | reverse %}
+
 <div class="row">
   <div class="col"></div>
   <div class="col-md-9 text-center">
     <p>A presentation at {{ page.location }} in {{ page.date | date: "%B %Y" }} by <a href="https://jacobrcampbell.com/contact">Jacob Campbell</a> and is tagged with
-      {% for hash in tag_hashes %}
-      {% assign keyValue = hash | split: '#' %}
-      {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-      <a href="{{ '/presentation-tags/' | relative_url }}#{{ tag_word | slugify }}">{{ keyValue[1] }}</a>{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
+      {% for tag_data in tag_freq_array %}
+        {% unless tag_data == "" %}
+          {% assign parts = tag_data | split: "#" %}
+          {% assign tag_slug = parts[1] %}
+          {% assign tag_display = parts[2] %}
+          <a href="{{ '/presentation-tags/' | relative_url }}#{{ tag_slug | slugify }}">{{ tag_display }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endunless %}
+      {% endfor %}
     </p>
   </div>
   <div class="col"></div>
