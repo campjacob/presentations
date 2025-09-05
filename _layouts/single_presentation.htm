@@ -119,7 +119,7 @@ layout: default
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <input class="form-control my-2" type="text" value="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" aria-label="URL for sharing" readonly>
+        <input id="share-url" class="form-control my-2" type="text" value="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" aria-label="URL for sharing" readonly>
         <ul class="list-inline orange share-buttons">
           <li class="list-inline-item"><a href="https://www.facebook.com/sharer/sharer.php?u=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}&quote=" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
           <li class="list-inline-item"><a href="https://twitter.com/intent/tweet?source=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-2x" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
@@ -128,12 +128,12 @@ layout: default
         </ul>
       </div>
       <div class="modal-footer">
+        <button type="button" class="btn btn-primary" onclick="copyEmbedCode()">Embed</button>
         <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
-
 
   <script>
     // JavaScript to update slide number
@@ -147,4 +147,19 @@ layout: default
         slideSelection.textContent = currentIndex + '/' + totalSlides;
       });
     });
+
+    // JavaScript to Copy Embed Code
+    function copyEmbedCode() {
+      const url = document.getElementById("share-url").value;
+
+      // Example: iframe embed code
+      const embedCode = `<iframe src="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" height="405" width="720" style="border: none;"></iframe>`;
+
+      navigator.clipboard.writeText(embedCode).then(() => {
+        alert("Embed code copied to clipboard!");
+      }).catch(err => {
+        console.error("Failed to copy: ", err);
+      });
+    }
+
   </script>
