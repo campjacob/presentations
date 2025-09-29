@@ -1,0 +1,26 @@
+---
+layout: single_presentation_all_slides
+title: "Fall 2025 SOWK 590 Week 06 - Advanced Seminar I"
+presentation_id: f9mR34
+slides:
+  - slide_name: ../deck-f9mR34-large-0.jpeg
+    slide_alt: "A circular design features interconnected people symbols on the left. On the right, text reads, 'Advanced Seminar I, Fall 2025 Week 06 for SOWK 590.' Below: 'Jacob Campbell, Ph.D. LICSW at Heritage University.'"
+    slide_text_md: >
+      %23%23%20Fall%202025%20SOWK%20590%20Week%2006%20-%20Advanced%20Seminar%20I%0A%0Atitle:%20Fall%202025%20SOWK%20590%20Week%2006%20-%20Advanced%20Seminar%20I%0Adate:%202025-09-29%2013:55:55%0Alocation:%20Heritage%20University%0Atags:%0A%20%20-%20Heritage%20University%0A%20%20-%20MSW%20Program%0A%20%20-%20SOWK%20590%0Apresentation_video:%20%3E%0A%20%20%22%22%0Adescription:%20%3E%0A%0AWeek%20six%20is%20synchronous%20with%20having%20class%20on%20Saturday%20(10/04/25)%20for%20SOWK%20590.%20Students%20continue%20to%20work%20at%20the%20practicum%20and%20will%20submit%20their%20weekly%20journal.%20We%20will%20have%20the%20following%20agenda:%0A%0A-%20SLED:%20Self-Care%20and%20Burnout%20Prevention%0A-%20Mindfulness%20activity%0A-%20Practice%20Learning%20Reflection%20Group%0A%0AThe%20learning%20objectives%20this%20week%20include:%0A%0A-%20Students%20consider%20self-care%20and%20burnout%20prevention,%20and%20how%20these%20concepts%20relate%20to%20their%20practice.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A%0A%0A
+  - slide_name: ../deck-f9mR34-large-1.jpeg
+    slide_alt: "The slide presents a weekly agenda and learning objectives. **Agenda for Week 06:**- SLED: Self-Care and Burnout Prevention- Mindfulness activity- Practice Learning Reflection Group**Learning Objectives:**- Students consider self-care and burnout prevention.- Practice mindfulness activity.- Recognize and utilize peer experiences for sharing and problem-solving.- Analyze practicum experience for personal development and competence."
+    slide_text_md: >
+      %23%23%20Plan%20for%20Week%20Six%0A%0AAgenda%0A%0A-%20SLED:%20Self-Care%20and%20Burnout%20Prevention%0A-%20Mindfulness%20activity%0A-%20Practice%20Learning%20Reflection%20Group%0A%0ALearning%20Objectives%0A%0A-%20Students%20consider%20self-care%20and%20burnout%20prevention,%20and%20how%20these%20concepts%20relate%20to%20their%20practice.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A%0A
+  - slide_name: ../deck-f9mR34-large-2.jpeg
+    slide_alt: "Slide displays text stating 'Self-Care and Burnout Prevention' with 'Student Led Discussion' highlighted at the top left. The background is plain white."
+    slide_text_md: >
+      %23%23%20Student-led%20Discussion%0A%0A%5BWhole%20Group%20Activity%5D%20Assigned%20students%20will%20facilitate%20discussion%20with%20the%20class%20regarding%20chosen%20topic.%0A%0ASelf-Care%20and%20Burnout%20Prevention%0A%0A
+  - slide_name: ../deck-f9mR34-large-3.jpeg
+    slide_alt: "Slide featuring a 'Mindfulness Activity' titled '5 Senses Activity.' Lists actions: 5 you can see, 4 you can hear, 3 you can feel, 2 you can smell, 1 you can taste."
+    slide_text_md: >
+      %23%23%20Mindfulness%20Activity:%205%20Senses%20Activity%0A%0A%5BWhole%20Class%20Activity%5D%20Go%20through%20each%20sense:%0A%0A5%20things%20you%20can%20see%0A4%20things%20you%20can%20hear%0A3%20things%20you%20can%20feel%0A2%20things%20you%20can%20smell%0A1%20thing%20you%20can%20taste%0A%0A
+  - slide_name: ../deck-f9mR34-large-4.jpeg
+    slide_alt: "Slide displaying text split into two sections. Left: 'Practice Learning Reflection Group,' with questions for group check-in and practicum discussion topics. Right: 'Group Norms' lists respectful interaction guidelines."
+    slide_text_md: >
+      %23%23%20Practice%20Learning%20Reflection%20Group%0A%0AGroup%20Norms%0A-%20We%20will%20be%20respectful%20of%20each%20other%0A-%20We%20will%20approach%20our%20dialog%20with%20an%20open%20mind%0A-%20We%20will%20engage%20and%20fully%20participate%0A-%20We%20will%20keep%20our%20client's%20information%20confidential%0A%0AGroup%20Check-in%20Question:%0AWhat%20was%20one%20moment%20that%20felt%20significant%20this%20week%3F%0A%0APracticum%20Discussion:%20%0A-%20What%20are%20some%20of%20the%20things%20that%20are%20happening%20in%20your%20practicums%0A-%20What%20are%20some%20of%20the%20needs%20of%20the%20clients%20you%20are%20working%20with%0A-%20Examples%20of%20client%20work%20to%20share%20with%20the%20group%0A
+---
