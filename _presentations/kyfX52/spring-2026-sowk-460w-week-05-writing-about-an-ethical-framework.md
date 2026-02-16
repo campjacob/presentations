@@ -32,7 +32,7 @@ downloadable_slides: deck-kyfX52.pdf
 slides_count: 9
 header:
   teaser: deck-kyfX52-thumb-0.jpeg
-presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b6bd6625-b683-455a-93f9-b3f3002b5158&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
+presentation_video: "https://heritage.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=bb6d4060-9a00-4ae9-8312-b3f300552ba8&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all"
 location: "Heritage University"
 tags:
   - Heritage University
