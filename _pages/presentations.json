@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /presentations.json
+---
+[
+{%- assign sorted_presentations = site.presentations | where: "layout", "single_presentation" | sort: 'date' | reverse -%}
+{%- for presentation in sorted_presentations -%}
+  {%- assign cover_slide = presentation.slides[0] -%}
+  {%- assign image_path = presentation.url | append: cover_slide.slide_name -%}
+  {
+    "id": {{ presentation.presentation_id | jsonify }},
+    "title": {{ presentation.title | jsonify }},
+    "date": {{ presentation.date | date_to_xmlschema | jsonify }},
+    "url": {{ presentation.url | absolute_url | jsonify }},
+    "image": {{ image_path | absolute_url | jsonify }},
+    "image_alt": {{ cover_slide.slide_alt | jsonify }},
+    "tags": {{ presentation.tags | jsonify }},
+    "location": {{ presentation.location | jsonify }},
+    "description": {{ presentation.description | strip_html | strip_newlines | jsonify }},
+    "video_embed": {{ presentation.presentation_video | jsonify }}
+  }{%- unless forloop.last %},{% endunless %}
+{%- endfor %}
+]
