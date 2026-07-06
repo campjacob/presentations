@@ -1,0 +1,77 @@
+---
+layout: single_present_slide
+title: "Summer 2026 SOWK 588 Week 01b - Foundations of Advanced Policy Practice - Prospective Analysis and Defining the Problem"
+slides:
+  - slide_name: ../deck-AsuUv2-large-0.jpeg
+    slide_text_md: >
+      %23%23%20Summer%202026%20SOWK%20588%20Week%2001b%20-%20Foundations%20of%20Advanced%20Policy%20Practice%20-%20Prospective%20Analysis%20and%20Defining%20the%20Problem%0A%0Atitle:%20Summer%202026%20SOWK%20588%20Week%2001b%20-%20Foundations%20of%20Advanced%20Policy%20Practice%20-%20Prospective%20Analysis%20and%20Defining%20the%20Problem%0Adate:%202026-05-29%2017:39:45%0Alocation:%20Heritage%20University%0Atags:%0A%20%20-%20Heritage%20University%0A%20%20-%20MSW%20Program%0A%20%20-%20SOWK%20588%0Apresentation_video:%20%3E%0A%20%20%22%22%0Adescription:%20%3E%0A%0AWelcome%20to%20the%20start%20of%20SOWK%20588,%20Advanced%20Policy%20Practice.%20Week%20one%20has%20a%20synchronous%20class%20session%20on%20Saturday%20(05/30/26).%20This%20week,%20we%20are%20starting%20our%20exploration%20of%20policy%20analysis%20by%20reflecting%20on%20previous%20policy%20analyses%20you%20have%20done.%20In%20the%20forums,%20you%20can%20write%20a%20definition%20of%20a%20problem,%20discuss%20current%20events%20and%20the%20impact%20of%20poverty,%20and%20further%20consider%20policy%20analysis.%20In%20class,%20we%20will%20continue%20to%20explore%20prospective%20policy%20analysis,%20applying%20it's%20steps%20through%20a%20group%20process.%20I%20have%20a%20video%20that%20discusses/reviews%20the%20course%20syllabus%20and%20the%20key%20assignments%20for%20this%20class.%20During%20the%20in-class%20session,%20the%20agenda%20will%20be%20as%20follows:%0A%0A-%20Course%20implementation%20discussion%20and%20housekeeping%0A-%20Practice%20with%20the%20process%20of%20prospective%20policy%20analysis%0A%0ALearning%20Objectives%20this%20week%20include:%0A%0A-%20Understand%20the%20significant%20assignments%20and%20general%20flow%20of%20this%20class%0A-%20Define%20a%20policy%20problem%20as%20a%20gap%20between%20a%20descriptive,%20as-is,%20condition%20and%20a%20normative,%20to-be,%20condition.%0A-%20Construct%20a%20succinct,%20evidence-informed%20problem%20definition%20for%20social%20policy%0A-%20Synthesize%20insights%20from%20contemporary%20data%20and%20events%20to%20reflect%20on%20evolving%20issues%20in%20policy%20practice%0A-%20Describe%20and%20apply%20the%20sequential%20approach%20to%20policy%20analysis%20in%20classical%20models%20of%20prospective%20policy%20analysis.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-1.jpeg
+    slide_text_md: >
+      %23%23%20Land%20Acknowledgement%0A%0A%5BWhole%20Group%20Activity%5D%20Read%20Land%20Acknowledgment%0A%0A%3E%20Yakmumani%20Tiicham%20(The%20land%20of%20the%20Yakama%20People).%20We%20would%20like%20to%20acknowledge%20that%20we%20are%20coming%20to%20you%20from%20the%20traditional%20lands%20of%20the%20first%20people%20of%20our%20valley,%20the%2014%20Confederated%20Tribes%20and%20Bands%20of%20the%20Yakama%20Nation,%20and%20we%20honor%20with%20gratitude%20the%20land%20itself%20and%20the%20Yakama%20People.%0A%0AThis%20hybrid%20version%20of%20the%20course%20is%20also%20being%20facilitated%20in%20Kennewick%20and%20is%20on%20the%20ancestral%20homelands%20of%20the%20Cayuse,%20Umatilla,%20Walla%20Walla,%20Yakama,%20and%20Palouse%20peoples.%20I%20also%20desire%20to%20honor%20and%20acknowledge%20them%20as%20well.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-2.jpeg
+    slide_text_md: >
+      %23%23%20Plan%20for%20Week%2001%0A%0A**Agenda**%0A%0A-%20Course%20implementation%20discussion%20and%20housekeeping%0A-%20Practice%20with%20the%20process%20of%20prospective%20policy%20analysis%0A%0A**Learning%20Objectives**%0A%0A-%20Describe%20and%20apply%20the%20sequential%20approach%20to%20policy%20analysis%20in%20classical%20models%20of%20prospective%20policy%20analysis.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-3.jpeg
+    slide_text_md: >
+      %23%23%20Hybrid%20Format:%20Considerations%20%26%20Expectations%0A%0AMy%20commitments%0A%0A-%20Provide%20opportunities%20to%20interact%20and%20engage%0A-%20Plan%20lessons%20to%20have%20opportunities%20to%20be%20done%20in-person%20or%20online%0A-%20Prepare%20and%20practice%20technologies%20before%0A-%20Ensure%20equitable%20access%20to%20materials%0A%0AExpectations%20for%20participants%0A%0A-%20**Participation%20and%20Engagement**:%20Active%20participation%20is%20expected,%20whether%20you%20join%20in%20person%20or%20online.%0A-%20**Camera%20On%20and%20Professionalism**:%20Please%20keep%20your%20camera%20on%20during%20synchronous%20sessions%20to%20signal%20presence%20and%20professional%20engagement.%20If%20you%20need%20to%20step%20away%20or%20be%20otherwise%20engaged%20for%20a%20few%20minutes,%20turning%20your%20camera%20off%20signals%20that%20you%20are%20otherwise%20occupied.%0A-%20**Speaking%20Up%20and%20the%20Chat**:%20If%20you%20have%20a%20question,%20please%20speak%20up%20verbally%20and%20ask%20it.%20Don't%20be%20afraid%20to%20interrupt,%20and%20I%20might%20not%20see%20the%20chat%20right%20away.%20There%20will%20also%20be%20opportunities%20to%20share%20in%20the%20chat,%20and%20I%20will%20incorporate%20and%20share%20them%20with%20the%20group.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-4.jpeg
+    slide_text_md: >
+      %23%23%20Course%20Question%20Opportunity%0A%3E%20You%20all%20should%20have%20hopefully%20watched%20my%20video%20reviewing%20the%20syllabus.%20I%20don't%20want%20to%20go%20over%20it%20here%20in%20this%20setting,%20but%20I'm%20open%20if%20people%20have%20questions%20lets%20talk%20about%20it.%0A%0A%5BWhole%20Group%20Activity%5D%20Course%20Questions%0A%0A
+  - slide_name: ../deck-AsuUv2-large-5.jpeg
+    slide_text_md: >
+      %23%23%20Podcast%20Discussion%0A%3E%20Deep%20Dive:%20Linquiti%20(2022)%0A%0A-%20Generated%20by%20Google%20Notebook%20LM%0A-%20Doesn't%20Replace%20Reading%0A-%20Overly%20sensational%0A%0ADiscuss%20my%20purpose%20in%20sharing%20and%20solicit%20thoughts%20ideas.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-6.jpeg
+    slide_text_md: >
+      %23%23%20Tentative%20Plan%20for%20Last%20Class%20Session:%20MSW%20Program%20Evaluation%20and%20Career%20Day%0A%0ALocation:%20Toppenish%20Campus,%20RAU%20Building/Patricia%20Wade%0A%0ASaturday%20July%2011th,%202026%0A08:30%20-%2009:30:%20%20Program%20Evaluation%20-%20Final%20Course%20Evaluation,%20Exit%20Survey%0A09:30%20-%2012:00:%20Agency%20Presentations%0A12:00%20-%2001:00:%20Potluck,%20Professional%20Headshots%0A01:00%20-%2002:00:%20Program%20Evaluation%20-%20Focus%20Group%0A02:00%20-%2003:00:%20Pinning%20Celebration%0A%0AAgency%20Presentations%0AWorking%20to%20fill%20ten%2015-minute%20slots%20with%20agencies%20that%20are%20hiring%20in%20the%20Valley%20and%20Tri-Cities%20area%20to%20share%20about%20their%20program.%0A%0A%5BWhole%20Group%20Activity%5D%20Discuss%20Last%20Class%20Session%0A%0A-%20Books%20(will%20ask%20you%20to%20bring%20back%20to%20class.%20Plan%20to%20provide%20PDFs%20for%20last%20session.)%0A-%20Pinning%20Ceremony%20-%3E%20Thinking...%20Bring%20Shawls,%20Caps,%20%22Cute%20outfits%22%20as%20described%20by%20Ruby%0A-%20Question%20-%20Invite%20families%3F%0A-%20Other%20things%20that%20people%20might%20want%20to%20do%20or%20have%20be%20a%20part.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-7.jpeg
+    slide_text_md: >
+      %23%23%20Example%20of%20Flyer%0A%0AMade%20by%20Jessica%0A%0A%0A
+  - slide_name: ../deck-AsuUv2-large-8.jpeg
+    slide_text_md: >
+      %23%23%20Steps%20in%20Prospective%20Policy%20Analysis%0A%0AWe%20are%20going%20to%20go%20over%20these%20step%20by%20step...%0A%0A1.%20Characterize%20the%20Policy%20Problem%0A2.%20Specify%20Policy%20Alternatives%0A3.%20Identify%20Evaluation%20Criteria%0A4.%20Create%20a%20Criteria-Alternatives%20Matrix%20and%20Predict%20Performance%20of%20Alternatives%0A5.%20Analyze%20Trade-offs%20Across%20Alternatives%0A6.%20Communicate%20Results%0A%0A%0A
+  - slide_name: ../deck-AsuUv2-large-9.jpeg
+    slide_text_md: >
+      %23%23%20Practice%20with%20Steps%20in%20Prospective%20Policy%20Analysis%0A%0A-%20We%20will%20talk%20about%20each%20step%20and%20the%20what%20we%20might%20think%20about%20related%20to%20this,%20and%20then%20practice%20in%20a%20small%20group.%0A-%20Tabs%20for%20each%20group%0A-%20Areas%20to%20add%20your%20groups%20ideas%20and%20thoughts%0A%0ALink%20to%20Google%20Doc%20in%20the%20Weekly%20Page%20in%20Myheritage%20-%20%5BPractice%20with%20Steps%20in%20Prospective%20Policy%20Analysis%5D(https://docs.google.com/document/d/1KFlhzqiVkAAw7GSmN81UvC6RE3kGib6yV6witY2AYiM/edit%3Fusp%3Dsharing)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-10.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%200%0A%0ASmall%20groups%20of%203%20or%204%20with%20people%20around%20you.%20We%20are%20going%20to%20go%20through%20Linquiti's%20steps%20in%20the%20prospective%20policy%20analysis%20part%20by%20part.%20Work%20together%20to%20determine%20who%20your%20group%20is%20and%20what%20social%20problem%20you%20are%20going%20to%20be%20considering.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-11.jpeg
+    slide_text_md: >
+      %23%23%20Characterize%20the%20Policy%20Problem%0A%3E%20some%20definitions:%0A%0A-%20**As-is%20Condition**:%20What%20does%20it%20look%20like%20now%0A-%20**To-be%20Condition**:%20What%20it%20should%20or%20ought%20to%20look%20like%0A-%20**Five%20Whys%20and%20Why%20That**:%20Getting%20to%20what%20is%20the%20underlying%20problem%0A%0A(Linquiti,%202022)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-12.jpeg
+    slide_text_md: >
+      %23%23%20Characterize%20the%20Policy%20Problem:%20How%20do%20you%20Define%20and%20Describe%20It%0A%0A%3E%20-%20Describes%20the%20_most%20important%20causes_%20of%20the%20problem,%20typically%20in%20just%20a%20few%20words%20each,%0A%3E%20-%20Articulates%20the%20_core%20problem%20that%20arises_%20from%20the%20gap%20between%20the%20as-is%20and%20to-be%20conditions,%20without%20getting%20bogged%20down%20in%20details,%20and%20%0A%3E%20-%20Identifies%20the%20_most%20important%20consequences_,%20again%20in%20just%20a%20few%20words%20each.%0A%0A(Linquiti,%202022,%20p.%2018)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-13.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%201%0A%0A%5BSmall%20Group%20Activity%5D%20Characterize%20the%20Policy%20Problem%0A%0A
+  - slide_name: ../deck-AsuUv2-large-14.jpeg
+    slide_text_md: >
+      %23%23%20Specify%20Policy%20Alternatives%20that%20Might%20Mitigate%20the%20Problem%0A%0AStrong%20policy%20options%20should%20are:%0A%0A-%20**Actionable**:%20Think%20concrete,%20imagine%20what%20it%20would%20look%20like%0A-%20**Described%20in%20detail**:%20%20Make%20it%20clear%20up%20front%20so%20when%20you%20start%20making%20arguments,%20you%20know%20what%20to%20argue%20for/against%0A-%20**Matched%20to%20the%20problem%20and%20context**:%20What%20is%20an%20overview%20of%20the%20situation%20and%20how%20it%20fits%0A-%20**Described,%20not%20evaluated**:%20You%20evaluate%20it%20later%0A-%20**Not%20a%20dummy%20alternative**:%20No%20straw%20man%20arguments%0A%0AScientific%20writing%20and%20making%20arguments.%20Presenting%20a%20strong%20case%20for%20the%20opposition.%0A%0A(Linquiti,%202022)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-15.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%202%0A%0A%5BSmall%20Group%20Activity%5D%20Specify%20Policy%20Alternatives%20that%20Might%20Mitigate%20the%20Problem%0A%0AThe%20textbook%20recommends%204-7.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-16.jpeg
+    slide_text_md: >
+      %23%23%20Identify%20Criteria%20for%20Evaluating%20Alternatives%0A%3E%20The%20next%20step%20is%20to%20consider%20the%20alternatives%20you%20developed.%0A%0ABasically%20you%20are%20developing%20a%20detailed%20and%20considered%20pros%20and%20cons%20list.%0A%0A-%20**Efficacy**:%20Ability%20to%20be%20effective%0A-%20**Cost**:%20Direct%20and%20indirect%20costs%0A-%20**Equity**:%20Equality,%20liberty,%20justice,%20and%20security%0A-%20**Administrability**:%20Can%20it%20be%20successfully%20implemented%0A%0AAlso%20consider%20unintended%20consequences%0A%0AWhat%20the%20author%20calls%20off%20the%20shelf%20criteria.%0A%0A(Linquiti,%202022)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-17.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%203%0A%0A%5BSmall%20Group%20Activity%5D%20Identify%20Criteria%20for%20Evaluating%20Alternatives%0A%0A
+  - slide_name: ../deck-AsuUv2-large-18.jpeg
+    slide_text_md: >
+      %23%23%20Create%20CAM%20and%20Predict%20Performance%20of%20Each%0A%0ACreate%20a%20Criteria-Alternatives%20Matrix%20and%20Predict%20the%20Performance%20of%20Each%20Alternative%0A%0ATable%20relating%20policy%20options%20to%20evaluative%20criteria.%0A%0A
+  - slide_name: ../deck-AsuUv2-large-19.jpeg
+    slide_text_md: >
+      %23%23%20Quote%0A%0A%3E%20%22By%20the%20way,%20if%20you%20asked%20me%20to%20single%20out%20the%20most%20important%20feature%20of%20the%20classical%20model%20of%20policy%20analysis,%20I%20would%20name%20the%20Criteria-Alternatives%20Matrix.%20Why%3F%20A%20_thoughtful%20and%20carefully%20constructed%20CAM%20can%20be%20a%20powerful%20tool%20for%20organizing%20the%20debate_%20about%20how%20to%20address%20a%20policy%20problem.%22%0A%0A(Linquiti,%202022,%20p.%2029)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-20.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%204%0A%0A%5BSmall%20Group%20Activity%5D%20Create%20a%20Criteria-Alternatives%20Matrix%20and%20Predict%20the%20Performance%20of%20Each%20Alternative%0A%0A
+  - slide_name: ../deck-AsuUv2-large-21.jpeg
+    slide_text_md: >
+      %23%23%20Make%20The%20Trade-Offs%20Across%20Alternatives%0AGive%20and%20take%0ASome%20have%20to%20do%20with%20cost.%0A%0A-%20Cost%20benefit%20analysis%20CBA%20(when%20everything%20can%20be%20monitized)%0A-%20cost-effectiveness%20analysis%20CEA%20(When%20everything%20but%20one%20can%20be%20monetized)%0A-%20Multiattribute%20analysis%20MAA%20(Use%20a%20score%20vs%20money)%0A-%20Prose-based%20statement%0A%0A(Linquiti,%202022)%0A%0A
+  - slide_name: ../deck-AsuUv2-large-22.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%205%0A%0A%5BSmall%20Group%20Activity%5D%20Make%20The%20Trade-Offs%20Across%20Alternatives%0A%0AThis%20one,%20I%20have%20the%20idea%20%3CNOTES%20ABOUT%20WHAT%20MIGHT%20REVIEW%3E%20as%20a%20prompt,%20as%20I%20don't%20expect%20you%20to%20have%20time%20now%20to%20really%20look%20at%20budgets%20or%20some%20score%20based%20tasks%20in%20a%20realistic%20way.%20But%20what%20would%20you%20do%20and%20how%3F%0A%0A
+  - slide_name: ../deck-AsuUv2-large-23.jpeg
+    slide_text_md: >
+      %23%23%20Small%20Group%20Step%206%0A%0A%5BWhole%20Group%20Activity%5D%20Communicate%20the%20results%0AHave%20groups%20present%20their%20findings.%0ACan%20make%20a%20presentation%20with%20slides%20to%20share%20or%20share%20verbally.%0A
+---
