@@ -7,3 +7,9 @@ _site/
 .bundle/
 *.sublime-project
 *.sublime-workspace
+
+# Editor state
+.nova/
+*.bbprojectd/
+.vscode/
+.idea/
