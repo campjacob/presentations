@@ -1,0 +1,47 @@
+---
+layout: single_present_slide
+title: "Fall 2026 SOWK 590 Week 01 - Getting Settled with Advanced Seminar I"
+slides:
+  - slide_name: ../deck-L1MGQg-large-0.jpeg
+    slide_text_md: >
+      %23%23%20Fall%202026%20SOWK%20590%20Week%2001%20-%20Getting%20Settled%20with%20Advanced%20Seminar%20I%0A%0Atitle:%20Fall%202026%20SOWK%20590%20Week%2001%20-%20Getting%20Settled%20with%20Advanced%20Seminar%20I%0Adate:%202026-08-28%2022:29:12%0Alocation:%20Heritage%20University%0Atags:%0A%20%20-%20Heritage%20University%0A%20%20-%20MSW%20Program%0A%20%20-%20SOWK%20590%0Apresentation_video:%20%3E%0A%20%20%22%22%0Adescription:%20%3E%0A%0AWelcome%20to%20SOWK%20590%20(and%20595).%20Practicum%20is%20the%20signature%20pedagogy%20of%20social%20work,%20and%20I%20think%20often%20the%20most%20impactful%20part%20of%20a%20student's%20academic%20career%20in%20social%20work.%20I'm%20happy%20to%20go%20through%20it%20with%20you.%20In%20the%20first%20class,%20we%20will%20have%20an%20opportunity%20for%20questions%20and%20practical%20steps%20in%20your%20practicum,%20pick%20groups%20and%20topics%20for%20the%20student-led%20discussions,%20engage%20in%20a%20mindfulness%20activity,%20and%20discuss%20group%20norms%20for%20our%20practicum%20reflection%20group.%20This%20week%20is%20a%20synchronous%20week,%20with%20class%20on%20Saturday%20(08/29/26).%20We%20meet%20in%20Petrie%20Hall%20RM%201116%20from%2012:45%20PM%20to%202:15%20PM.%20I%20also%20made%20a%20video%20talking%20through%20the%20syllabus%20and%20course%20content%20for%20both%20classes.%0A%0AWe%20will%20have%20the%20following%20agenda:%0A%0A-%20Getting%20settled%20for%20SOWK%20590%20and%20595%0A-%20Mindfulness%20activity,%20box%20breathing%0A-%20Picking%20topics%20for%20student-led%20discussions%0A-%20Getting%20Caught%20Up%20in%20the%20ELC%0A-%20Practice%20Learning%20Reflection%20Group%0A%0AThe%20learning%20objectives%20this%20week%20include:%0A%0A-%20To%20identify%20the%20structure%20of%20this%20course,%20the%20assignments%20used%20to%20facilitate%20learning%20and%20demonstrate%20competency,%20and%20what%20to%20expect%20this%20semester.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A%0A
+  - slide_name: ../deck-L1MGQg-large-1.jpeg
+    slide_text_md: >
+      %23%23%20Week%201%20Plan%0A%0A**Agenda**%0A%0A-%20Getting%20settled%20for%20SOWK%20590%20and%20595%0A-%20Mindfulness%20activity,%20box%20breathing%0A-%20Picking%20topics%20for%20student-led%20discussions%0A-%20Getting%20Caught%20Up%20in%20the%20ELC%0A-%20Practice%20Learning%20Reflection%20Group%0A%0A**Learning%20Objectives**%0A%0A-%20To%20identify%20the%20structure%20of%20this%20course,%20the%20assignments%20used%20to%20facilitate%20learning%20and%20demonstrate%20competency,%20and%20what%20to%20expect%20this%20semester.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A%0A
+  - slide_name: ../deck-L1MGQg-large-2.jpeg
+    slide_text_md: >
+      %23%23%20Courses%20Overview%0A%0ABoth%20classes%20are%20pass/no%20pass.%20There%20are%20three%20products%20that%20you%20will%20be%20graded%20on.%0A%0ASeminar%20has%203%20Products%0A%0A-%20Attendance%20(Can%20only%20miss%20one%20session)%0A-%20In-Class%20Participation%0A-%20Weekly%20Reflective%20Journal%0A%0APracticum%20Has%20two%20Tasks%0A%0A-%20250%20Hours%0A-%20Learning%20contract%20and%20midpoint%20evaluation%20(must%20score%20a%203%20or%20higher%20on%20at%20least%20one%20competency)%0A%0A
+  - slide_name: ../deck-L1MGQg-large-3.jpeg
+    slide_text_md: >
+      %23%23%20In%20Person%20Class%20Format%0A%3E%20Each%20week,%20the%20following%20will%20be%20the%20format%20of%20the%20class%20that%20we%20meet%20in-person.%0A%0A-%20Practice%20Learning%20Reflection%20Group%0A-%20Mindfulness%20Activity%0A-%20Student%20Led%20Discussion%0A%0A
+  - slide_name: ../deck-L1MGQg-large-4.jpeg
+    slide_text_md: >
+      %23%23%20Reviewing%20Learning%20Contracts%0A%3E%20We%20need%20to%20make%20a%20general%20plan%20for%20learning%20contracts.%0A%0A-%20Where%20are%20you%20at%20in%20development%0A-%20Scheduling%20a%20time%20to%20review%0A-%20Support%20you%20need%0A%0A
+  - slide_name: ../deck-L1MGQg-large-5.jpeg
+    slide_text_md: >
+      %23%23%20Questions%20on%20Syllabi%0A%0AI%20posted%20a%20video%20for%20this%20class.%20You%20should%20have%20watched%20it.%20Questions%3F%0A%0A
+  - slide_name: ../deck-L1MGQg-large-6.jpeg
+    slide_text_md: >
+      %23%23%20Box%20Breathing%0A%3E%20I%20want%20to%20start%20our%20little%20meeting%20today%20with%20a%20self-care%20practice.%20This%20might%20be%20something%20that%20you%20are%20familiar%20with%20or%20not.%20but%20it%20is%20a%20simple%20but%20powerful%20way%20to%20breath.%20It%20is%20a%20form%20of%20deep%20breathing%20employed%20by%20the%20Navy%20SEALS%20and%20used%20in%20yogic%20practice%20as%20well.%20Sometimes%20it%20is%20called%204x4%20breathing%20or%20equal%20breathing%0A%0AIt%20has%20a%20ton%20of%20benefits,%20including:%0A-%20Lowers%20stress%0A-%20Activates%20the%20parasympathetic%20nervous%20system%20(rest%20and%20digest)%0A-%20Calms%20the%20mind%0A%0AI%20created%20a%20this%20to%20help%20show%20us%20how%20to%20do%20it,%20but%20it%20is%20simple%20and%20just%20counting%20to%20four%20or%20five%20on%20inhale/hold/exhale/hold.%20The%20slides%20are%20going%20to%20have%20the%20arrow%20move%20and%20each%20of%20the%20little%20circles%20will%20appear%20around%20the%20square%201%20per%20second.%0A%0A
+  - slide_name: ../deck-L1MGQg-large-7.jpeg
+    slide_text_md: >
+      %23%23%20Box%20Breathing%20-%20Round%201%0ASo%20we%20are%20going%20to%20start%20with%20our%20inhale...%0A%0ANext%20to%20start%20--%3E%0A%0A
+  - slide_name: ../deck-L1MGQg-large-8.jpeg
+    slide_text_md: >
+      %23%23%20Box%20Breathing%20-%20Round%202%0ASlide%20automatically%20goes%0A%0A
+  - slide_name: ../deck-L1MGQg-large-9.jpeg
+    slide_text_md: >
+      %23%23%20Box%20Breathing%20-%20Round%203%0ASlide%20automatically%20goes%0A%0A
+  - slide_name: ../deck-L1MGQg-large-10.jpeg
+    slide_text_md: >
+      %23%23%20Student%20Led%20Discussion%20Topics%0A%3E%20Our%20next%20class%20(W-03,%2009/12)%20we%20are%20going%20to%20talk%20about%20%22Safety%20%26%20Well-Being,%20Self-Care%22%20but%20I%20want%20to%20spend%20some%20time%20planning%20who%20is%20going%20to%20do%20what.%0A%0A-%20Talk%20about%20how%20this%20will%20look%0A%0A%5BWhole%20Class%20Activity%5D%20Set%20out%20each%20week%20around%20the%20room.%20students%20spread%20out%20to%20the%20section%20they%20are%20interested%20in.%0A%0AList%20of%20weeks%0A%0AW-03%20%09Safety%20%26%20Well-Being,%20Self-Care%20%0AW-05%20%09Self-Care%20and%20Burnout%20Prevention%0AW-07%20%09Restorative%20Justice%20Practices%0AW-08%09Intersectionality%20and%20Identity%0AW-11%09Community%20Organizing%20and%20Activism%0AW-13%09Cultural%20Competence%20in%20Practice%0A%0A
+  - slide_name: ../deck-L1MGQg-large-11.jpeg
+    slide_text_md: >
+      %23%23%20ELC%20and%20Questions%0A%0AYou%20should%20look%20like%20this.%0A%0A
+  - slide_name: ../deck-L1MGQg-large-12.jpeg
+    slide_text_md: >
+      %23%23%20Developing%20Group%20Norms%0A%3E%20What%20are%20our%20rules%20for%20the%20practice%20learning%20reflection%20group%0A%0APrevious%20Cohort%20Norms:%0A-%20We%20will%20be%20respectful%20of%20each%20other%0A-%20We%20will%20approach%20our%20dialogue%20with%20an%20open%20mind%0A-%20We%20will%20engage%20and%20fully%20participate%0A-%20We%20will%20keep%20our%20client's%20information%20confidential%0A%0A
+  - slide_name: ../deck-L1MGQg-large-13.jpeg
+    slide_text_md: >
+      %23%23%20Practice%20Learning%20Reflection%20Group%0A%0AGroup%20Check-in%20Question:%0AWhat%20was%20one%20moment%20that%20felt%20significant%20this%20week%3F%0A%0APracticum%20Discussion:%20%0A-%20What%20are%20some%20of%20the%20things%20that%20are%20happening%20in%20your%20practicums%0A-%20What%20are%20some%20of%20the%20needs%20of%20the%20clients%20you%20are%20working%20with%0A-%20Examples%20of%20client%20work%20to%20share%20with%20the%20group%0A
+---
