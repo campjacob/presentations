@@ -1,0 +1,26 @@
+---
+layout: single_present_slide
+title: "Fall 2026 SOWK 590 Week 03 - Advanced Seminar I"
+slides:
+  - slide_name: ../deck-0t0EQZ-large-0.jpeg
+    slide_text_md: >
+      %23%23%20Fall%202026%20SOWK%20590%20Week%2003%20-%20Advanced%20Seminar%20I%0A%0Atitle:%20Fall%202026%20SOWK%20590%20Week%2003%20-%20Advanced%20Seminar%20I%0Adate:%202026-09-11%2023:49:11%0Alocation:%20Heritage%20University%0Atags:%0A%20%20-%20Heritage%20University%0A%20%20-%20MSW%20Program%0A%20%20-%20SOWK%20590%0Apresentation_video:%20%3E%0A%20%20%22%22%0Adescription:%20%3E%0A%0AWeek%20three%20is%20synchronous%20with%20having%20class%20on%20Saturday%20(09/12/26)%20for%20SOWK%20590.%20We%20will%20have%20the%20following%20agenda:%0A%0A-%20Learning%20contracts%20and%20reminders%0A-%20SLED:%20Safety,%20Well%20Being,%20and%20Self-Care%0A-%20Mindfulness%20activity%0A-%20Practice%20Learning%20Reflection%20Group%0A%0AThe%20learning%20objectives%20this%20week%20include:%0A%0A-%20Students%20consider%20safety,%20well-being,%20and%20self-care,%20and%20how%20these%20aspects%20relate%20to%20their%20practice.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A-%20Students%20will%20analyze%20their%20practicum%20experience,%20reflecting%20on%20how%20it%20connects%20to%20their%20development%20and%20demonstration%20of%20competence.%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-1.jpeg
+    slide_text_md: >
+      %23%23%20Week%2003%20Plan%0A%0A**Agenda**%0A%0A-%20SLED:%20Safety,%20Well-Being,%20and%20Self-Care%0A-%20Mindfulness%20activity%0A-%20Learning%20contracts%20and%20reminders%0A-%20Practice%20Learning%20Reflection%20Group%0A%0A**Learning%20Objectives**%0A%0A-%20Students%20consider%20safety,%20well-being,%20and%20self-care,%20and%20how%20these%20aspects%20relate%20to%20their%20practice.%0A-%20Students%20will%20actively%20practice%20a%20mindfulness%20activity.%0A-%20Students%20will%20recognize%20the%20shared%20experiences%20of%20their%20peers%20in%20the%20practicum%20and%20be%20able%20to%20utilize%20the%20group%20as%20a%20method%20for%20sharing%20and%20problem-solving.%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-2.jpeg
+    slide_text_md: >
+      %23%23%20Student-led%20Discussion%0A%0A%5BWhole%20Group%20Activity%5D%20Assigned%20students%20will%20facilitate%20discussion%20with%20the%20class%20regarding%20chosen%20topic.%0A%0ASafety,%20Well%20Being,%20%26%20Self-Care%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-3.jpeg
+    slide_text_md: >
+      %23%23%20Mindfulness%20Activity:%20WISE%20Mind%0ADBT%20Skills%20Training%20Handbook%20(Linehan,%202015)%0A%0A%0AReasonable%20Mind%20Is:%0A%0A-%20Cool%0A-%20Rational%0A-%20Task-focused%0A%0AWhen%20in%20reasonable%20mind,%20you%20are%20ruled%20by%20facts,%20reasons,%20logic,%20and%20pragmatics.%20Values%20and%20feelings%20are%20not%20important.%0A%0AEmotion%20Mind%20Is:%0A-%20Hot%0A-%20Mood-Dependent%0A-%20Emotion%20Focused%0A%0AWhen%20in%20emotion%20mind,%20you%20are%20ruled%20by%20your%20moods,%20feelings,%20and%20urges%20to%20do%20or%20say%20things.%20Facts,%20reasons,%20and%20logic%20are%20not%20important.%0A%0AWise%20Mind%20Is:%0AThe%20wisdom%20within%20each%20person%0ASeeing%20the%20value%20of%20both%20reason%20and%20emotion%0ABringing%20left%20brain%20and%20right%20brain%20together%0AThe%20middle%20path%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-4.jpeg
+    slide_text_md: >
+      %23%23%20Mindfulness%20Activity%0A%0AWalking%20down%20the%20spiral%20stairs%0AImagine%20that%20within%20you%20is%20a%20spiral%20staircase,%20winding%20down%20to%20your%20very%20center.%20Starting%20at%20the%20top%20walk%20very%20slowly%20down%20the%20staircase,%20going%20deeper%20and%20deeper%20within%20yourself.%0A%0ANotice%20the%20sensations.%20Rest%20by%20sitting%20on%20a%20step,%20or%20turn%20on%20lights%20on%20the%20way%20down%20if%20you%20wish.%20Do%20not%20force%20yourself%20further%20than%20you%20want%20to%20go.%20Notice%20the%20quiet.%20As%20you%20reach%20the%20center%20of%20your%20self,%20settle%20your%20attention%20there-perhaps%20in%20your%20gut%20or%20your%20abdomen.%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-5.jpeg
+    slide_text_md: >
+      %23%23%20Learning%20Contracts%0A%0A-%20You%20should%20be%20scheduled%20for%20the%20first%20site%20visit...%0A-%20Check%20in%20if%20people%20need%0A%0A
+  - slide_name: ../deck-0t0EQZ-large-6.jpeg
+    slide_text_md: >
+      %23%23%20Practice%20Learning%20Reflection%20Group%0A%0A**Group%20Norms:**%0A%0A-%20We%20will%20be%20respectful%20of%20each%20other%0A-%20We%20will%20approach%20our%20dialogue%20with%20an%20open%20mind%0A-%20We%20will%20engage%20and%20fully%20participate%0A-%20We%20will%20keep%20our%20clients%E2%80%99%20information%20confidential%0A%0A**Group%20Check-in%20Question:**%0A%0AWhat%20is%20something%20you%20learned%20this%20week%3F%0A%0A**Practicum%20Discussion:**%0A%0A-%20Discuss%20things%20going%20on%20at%20your%20practicum.%0A-%20Explore%20client%20needs%20and%20group%20problem-solving.%0A-%20Share%20about%20the%20work%20you%20are%20doing%20with%20your%20clients.%0A
+---
