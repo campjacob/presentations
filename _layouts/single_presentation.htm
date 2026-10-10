@@ -119,13 +119,20 @@ layout: default
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <input id="share-url" class="form-control my-2" type="text" value="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" aria-label="URL for sharing" readonly>
-        <ul class="list-inline orange share-buttons">
-          <li class="list-inline-item"><a href="https://www.facebook.com/sharer/sharer.php?u=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}&quote=" target="_blank" title="Share on Facebook"><i class="fab fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a></li>
-          <li class="list-inline-item"><a href="https://twitter.com/intent/tweet?source=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" target="_blank" title="Tweet"><i class="fab fa-twitter-square fa-2x" aria-hidden="true"></i><span class="sr-only">Tweet</span></a></li>
-          <li class="list-inline-item"><a href="http://pinterest.com/pin/create/button/?url=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" target="_blank" title="Pin it"><i class="fab fa-pinterest-square fa-2x" aria-hidden="true"></i><span class="sr-only">Pin it</span></a></li>
-          <li class="list-inline-item"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}&title=&summary=&source=https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" target="_blank" title="Share on LinkedIn"><i class="fab fa-linkedin fa-2x" aria-hidden="true"></i><span class="sr-only">Share on LinkedIn</span></a></li>
-        </ul>
+        <input id="share-url" class="form-control mb-3" type="text" value="https://presentations.jacobrcampbell.com/{{ page.presentation_id }}" aria-label="URL for sharing" readonly>
+        {%- assign share_url = "https://presentations.jacobrcampbell.com/" | append: page.presentation_id -%}
+        {%- assign share_title = page.title | strip_html | strip -%}
+        {%- assign share_u = share_url | url_encode -%}
+        {%- assign share_tu = share_title | append: " " | append: share_url | url_encode -%}
+        <div class="d-flex flex-wrap align-items-center gap-2 share-buttons" data-share-url="{{ share_url }}" data-share-title="{{ share_title | escape }}">
+          <button type="button" class="btn btn-sm btn-primary d-none" data-share="native"><i class="fa-solid fa-share-from-square me-1" aria-hidden="true"></i> Share&hellip;</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" data-share="copy"><i class="fa-solid fa-link me-1" aria-hidden="true"></i> <span>Copy link</span></button>
+          <a class="btn btn-sm btn-outline-secondary" href="#" data-share="mastodon" title="Share on Mastodon"><i class="fa-brands fa-mastodon" aria-hidden="true"></i><span class="visually-hidden">Share on Mastodon</span></a>
+          <a class="btn btn-sm btn-outline-secondary" href="https://bsky.app/intent/compose?text={{ share_tu }}" target="_blank" rel="noopener" title="Share on Bluesky"><i class="fa-brands fa-bluesky" aria-hidden="true"></i><span class="visually-hidden">Share on Bluesky</span></a>
+          <a class="btn btn-sm btn-outline-secondary" href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_u }}" target="_blank" rel="noopener" title="Share on LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span class="visually-hidden">Share on LinkedIn</span></a>
+          <a class="btn btn-sm btn-outline-secondary" href="https://www.facebook.com/sharer/sharer.php?u={{ share_u }}" target="_blank" rel="noopener" title="Share on Facebook"><i class="fa-brands fa-facebook" aria-hidden="true"></i><span class="visually-hidden">Share on Facebook</span></a>
+          <a class="btn btn-sm btn-outline-secondary" href="mailto:?subject={{ share_title | url_encode }}&amp;body={{ share_u }}" title="Share by email"><i class="fa-solid fa-envelope" aria-hidden="true"></i><span class="visually-hidden">Share by email</span></a>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" onclick="copyEmbedCode()">Embed</button>
@@ -136,6 +143,36 @@ layout: default
 </div>
 
   <script>
+    // Share buttons: device share sheet where supported, copy link, and Mastodon (asks for the reader's server)
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('.share-buttons').forEach(function(box) {
+        var url = box.dataset.shareUrl, title = box.dataset.shareTitle;
+        var native = box.querySelector('[data-share="native"]');
+        if (navigator.share && native) {
+          native.classList.remove('d-none');
+          native.addEventListener('click', function() { navigator.share({ title: title, url: url }).catch(function() {}); });
+        }
+        var copy = box.querySelector('[data-share="copy"]');
+        copy.addEventListener('click', function() {
+          var label = copy.querySelector('span');
+          navigator.clipboard.writeText(url).then(function() {
+            label.textContent = 'Copied!';
+            setTimeout(function() { label.textContent = 'Copy link'; }, 2000);
+          });
+        });
+        box.querySelector('[data-share="mastodon"]').addEventListener('click', function(e) {
+          e.preventDefault();
+          var saved = '';
+          try { saved = localStorage.getItem('mastodonInstance') || ''; } catch (err) {}
+          var server = window.prompt('Your Mastodon server (for example, mastodon.social):', saved || 'mastodon.social');
+          if (!server) return;
+          server = server.trim().replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+          try { localStorage.setItem('mastodonInstance', server); } catch (err) {}
+          window.open('https://' + server + '/share?text=' + encodeURIComponent(title + ' ' + url), '_blank', 'noopener');
+        });
+      });
+    });
+
     // JavaScript to update slide number
     document.addEventListener('DOMContentLoaded', function() {
       var carousel = document.getElementById('carouselPresentationSlides');
