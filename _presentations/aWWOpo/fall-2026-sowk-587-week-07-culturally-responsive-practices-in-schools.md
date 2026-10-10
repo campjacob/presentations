@@ -1,0 +1,44 @@
+---
+layout: single_presentation
+name: fall-2026-sowk-587-week-07-culturally-responsive-practices-in-schools.md
+title: "Fall 2026 SOWK 587 Week 07 - Culturally Responsive Practices in Schools"
+date: 2026-10-09 21:05:51
+presentation_id: aWWOpo
+permalink: /aWWOpo/
+redirect_from:
+  - /presentations/aWWOpo/fall-2026-sowk-587-week-07-culturally-responsive-practices-in-schools
+slides:
+  - slide_name: deck-aWWOpo-large-0.jpeg
+    slide_alt: "A title slide with a white V-shaped center on lavender and gray backgrounds, with a zipper at its base. Yellow tape measure, safety pin, and scissors frame the title 'CULTURALLY RESPONSIVE: Practices in Schools,' and a red yarn ball and spool of thread sit at the edges. Text reads 'Tailoring our interventions to meet the diverse needs of our clients,' and 'Jacob Campbell, Ph.D. LICSW, Heritage University, Fall 2026 SOWK 587, Week 07' appears on a red knit panel."
+  - slide_name: deck-aWWOpo-large-1.jpeg
+    slide_alt: "A presentation slide split into two columns: on the left, a gray 'AGENDA' list with five bullets, including 'Reflective practice on your knowledge of cultural competence and your own biases,' 'Examples and best practices of addressing racism in schools,' and 'Midterm feedback.' On the right, a brown panel titled 'LEARNING OBJECTIVES' lists four goals: 'Reflect on personal biases and their impact on client interactions,' 'Understand and apply culturally responsive practices in social work settings,' 'Increase cross-cultural knowledge,' and 'Provide meaningful feedback to guide this course.' The footer reads 'Jacob Campbell, Ph.D. LICSW at Heritage University' and 'Fall 2026 SOWK 587,' with small red and yellow thread-spool and yarn-ball icons."
+  - slide_name: deck-aWWOpo-large-2.jpeg
+    slide_alt: "A large QR code with a Padlet logo in the center sits on the left of a slide titled 'Join the Padlet,' with the URL beneath it. On the right, a teal box reads 'Write comments on two or three of the prompts,' followed by five bulleted questions about culturally responsive social work. The footer shows 'Jacob Campbell, Ph.D. LICSW at Heritage University,' a 'Competency G' badge, and 'Fall 2026 SOWK 587.'"
+  - slide_name: deck-aWWOpo-large-3.jpeg
+    slide_alt: "A title slide for the MAKSS survey, with large grey 'MAKSS' text and the subtitle 'The Multicultural Awareness, Knowledge, and Skills Survey' on the left. On the right, two numbered steps ('1 Complete the Survey', '2 Debrief in Small Groups') sit above three debrief questions. Footer text reads 'Jacob Campbell, Ph.D. LICSW at Heritage University', '(D'Andrea et al., 1991)', 'Fall 2026 SOWK 587', and a '✅ Competency G' tag."
+  - slide_name: deck-aWWOpo-large-4.jpeg
+    slide_alt: "Four black silhouette figures sit around a round brown table on a gray-blue panel, while a red, cape-like cloth with a purple diagonal cross of white stars hangs on the white right side. Text: 'Systematic Problems Related to Racism' (left), 'A Student Case Study' (right), footer 'Jacob Campbell, Ph.D. LICSW at Heritage University' and 'Fall 2026 SOWK 587.'"
+  - slide_name: deck-aWWOpo-large-5.jpeg
+    slide_alt: "A slide titled 'How to Change Racist Behavior in Schools' lists ten bulleted strategies in two columns on a white background, such as 'Set clear anti-racism expectations' and 'Prioritize integration in seating arrangements.' Footer reads 'Jacob Campbell, Ph.D. LICSW at Heritage University,' '(Dupper, 2003 as cited in Jarolmen & Bautista-Thomas, 2023),' and 'Fall 2026 SOWK 587,' with a red-and-yellow spool and yarn-ball logo."
+  - slide_name: deck-aWWOpo-large-6.jpeg
+    slide_alt: "A presentation slide with a gray peel-off label reading 'ANTIRACIST' on the left, with its curled corner showing white beneath. Below it is text: 'Kendi describes these titles as non-permanent, and they can be placed (like a peelable name tag) and changed based on what we are doing or not doing.' On the right, a two-column table compares 'Racist' (expressing an idea of racial hierarchy, or through actions or inaction supporting a policy that leads to racial inequity or injustice) with 'Antiracist' (expressing an idea of racial equality, or actively supporting a policy that leads to racial equity or justice). A brown box asks: 'In what ways can you put on the label of antiracist?' Footer: 'Jacob Campbell, Ph.D. LICSW at Heritage University,' '(Kendi, 2023),' 'Fall 2026 SOWK 587.'"
+  - slide_name: deck-aWWOpo-large-7.jpeg
+    slide_alt: "A smartphone displays a photo post of a framed 'RACIST' poster on an office wall, beside a desk phone and laptop. The slide's large gray headline reads 'SEE IT IN EITHER OF MY OFFICES,' with the italic subtitle 'I knew I wanted to have this posted there.' Footer text: 'Jacob Campbell, Ph.D. LICSW at Heritage University, Fall 2026 SOWK 587,' and the URL 'https://media.vsp.ink/p/photos/879104333841608906.'"
+  - slide_name: deck-aWWOpo-large-8.jpeg
+    slide_alt: "A presentation slide headed 'CROSS-CULTURAL KNOWLEDGE' and 'Standards and Indicators for Cultural Competence in Social Work Practice' (National Association of Social Workers, 2015, pp. 24-28), with an orange 'Standard 3.' tab. The left column reads 'Social workers shall possess and continue to develop specialized knowledge and understanding...' and the right lists indicator '1. expand their cultural knowledge, expertise, and humility by studying' with five bullets: help-seeking behaviors, historical context, language and communication, social policies' impact, and mobilizing resources. The footer reads 'Jacob Campbell, Ph.D. LICSW at Heritage University,' '✅ Competency G,' and 'Fall 2026 SOWK 587.'"
+  - slide_name: deck-aWWOpo-large-9.jpeg
+    slide_alt: "A presentation slide with a bold title, 'Sharing Cross-Cultural Knowledge for Communities of Color,' listing six community categories, from African to Multiracial Descent. A wooden easel displays a teal sign reading 'What do social workers need to know about this population?' A green arrow points from the Asian and Pacific Islander line to a purple box citing 'Mental Health America - Communities of Color.' Footer: 'Jacob Campbell, Ph.D. LICSW at Heritage University,' 'Fall 2026 SOWK 587,' and a 'Competency G' badge."
+  - slide_name: deck-aWWOpo-large-10.jpeg
+    slide_alt: "A presentation slide with a large gray headline reading 'COMPLETE YOUR MIDTERM FEEDBACK' on the left, beside a gray clipboard graphic holding a black-and-white QR code. The footer reads 'Jacob Campbell, Ph.D. LICSW at Heritage University' and 'Fall 2026 SOWK 587,' with a spool and yarn-ball icon."
+presentation_description_md: >
+  Tailoring%20our%20practices%20to%20our%20clients'%20cultural%20needs%20helps%20us%20build%20strong%20relationships,%20improve%20engagement%20and%20outcomes,%20and%20address%20barriers%20and%20biases%20in%20our%20practice.%20Week%20seven%20of%20SOWK%20587%20focuses%20on%20culturally%20responsive%20practices%20in%20schools%20and%20takes%20place%20synchronously%20on%20Saturday%20(10/10/26).%20The%20reading%20by%20Jarolmen%20and%20Bautista-Thomas%20(2023)%20focuses%20on%20developing%20self-awareness%20in%20cultural%20competence,%20culturally%20responsive%20practice,%20and%20cultural%20humility%20within%20anti-oppressive%20frameworks.%20It%20also%20provides%20some%20tools%20and%20ideas%20for%20working%20with%20different%20populations.%20I%20also%20ask%20you%20to%20read%20Davidson%20Cowling%20(2018),%20which%20explores%20culturally%20responsive%20practices%20with%20indigenous%20populations.%20In%20this%20class,%20we%20will%20explore%20cultural%20responsiveness%20by%20examining%20biases,%20systemic%20inequities,%20and%20strategies%20for%20tailoring%20interventions%20to%20diverse%20populations.%20Through%20discussions,%20interactive%20activities,%20and%20case%20studies,%20we%20will%20develop%20practical%20skills%20for%20culturally%20competent%20social%20work%20practice.%20Students%20will%20review%20ethical%20decision-making%20videos%20from%20their%20peers.%0A%0AThe%20agenda%20is%20as%20follows:%0A%0A-%20Reflective%20practice%20on%20your%20knowledge%20of%20cultural%20competence%20and%20your%20own%20biases%0A-%20Examples%20and%20best%20practices%20of%20addressing%20racism%20in%20schools%0A-%20Strategies%20for%20becoming%20antiracist%0A-%20Cross-cultural%20knowledge%20and%20cultural%20competence%0A-%20Midterm%20feedback%0A%0AThe%20learning%20objectives%20are:%0A%0A-%20Reflect%20on%20personal%20biases%20and%20their%20impact%20on%20client%20interactions.%0A-%20Understand%20and%20apply%20culturally%20responsive%20practices%20in%20social%20work%20settings.%0A-%20Increase%20cross-cultural%20knowledge.%0A-%20Provide%20meaningful%20feedback%20to%20guide%20this%20course.
+downloadable_slides: deck-aWWOpo.pdf
+slides_count: 11
+header:
+  teaser: deck-aWWOpo-thumb-0.jpeg
+location: "Heritage University"
+tags:
+  - Heritage University
+  - MSW Program
+  - SOWK 587
+---
