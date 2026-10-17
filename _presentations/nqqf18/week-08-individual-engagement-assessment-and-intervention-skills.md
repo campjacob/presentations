@@ -1,0 +1,40 @@
+---
+layout: single_presentation
+name: week-08-individual-engagement-assessment-and-intervention-skills.md
+title: "Week 08 - Individual Engagement, Assessment, and Intervention Skills"
+date: 2026-10-16 20:14:54
+presentation_id: nqqf18
+permalink: /nqqf18/
+redirect_from:
+  - /presentations/nqqf18/week-08-individual-engagement-assessment-and-intervention-skills
+slides:
+  - slide_name: deck-nqqf18-large-0.jpeg
+    slide_alt: "A title slide with a concentric target graphic in blue, yellow, orange, and red on the left, and the text 'Individual Engagement, Assessment, and Intervention Skills' with subtitle 'Referral, Assessment, Treatment Approaches' on a cream background. Header reads 'Fall 2026 SOWK 587 Week 08' and 'Jacob Campbell, Ph.D. LICSW at Heritage University.'"
+  - slide_name: deck-nqqf18-large-1.jpeg
+    slide_alt: "A slide titled 'Clinical Case Study: CBT for depression in a Puerto Rican adolescent' shows a sad, downcast teenage girl with long dark hair, in an orange sweater and navy jeans, sitting hunched on a wooden bench against a muted blue-gray background. Beside her is a green box reading 'Read the case study and discuss the following with a partner,' followed by three questions about CBT adaptation, school-based mental health, and culturally adapted interventions. Footer reads 'Fall 2026 SOWK 587 Week 08,' '(Jiménez Chafey et al. 2009),' and 'Competency E.' Caption: 'Graphic generated using ChatGPT.'"
+  - slide_name: deck-nqqf18-large-2.jpeg
+    slide_alt: "A presentation slide with two columns on a beige background: the left column, under 'Agenda,' lists Referrals, Practical application of gathering information, Assessment, and Solution-Focused Therapy in the Schools. The right column, under 'Learning Objectives,' has three bullets, and an orange banner across the top reads 'PLAN FOR WEEK 10.' The footer reads 'Fall 2026 SOWK 587 Week 08' and 'Jacob Campbell, Ph.D. LICSW at Heritage University.'"
+  - slide_name: deck-nqqf18-large-3.jpeg
+    slide_alt: "A presentation slide titled 'Referrals' shows a row of black stick-figure people on a yellow oval, with a red 'HOT SEAT' chair sign at the left edge. Text reads 'Referral Pitch: Working groups of three or four, make a pitch for a student to be referred to social work services. It could be a real case or a fictional one.' Bullets ask: 'What do your schools do to refer students for services?', 'What works well, and what doesn't?', and 'In referral meetings, what information is generally shared?' Footer: 'Jacob Campbell, Ph.D. LICSW at Heritage University, Fall 2026 SOWK 587 Week 08.'"
+  - slide_name: deck-nqqf18-large-4.jpeg
+    slide_alt: "A printed Pediatric Symptom Checklist Youth Report (Y-PSC) form, with 35 numbered items rated Never, Sometimes, or Often, sits on a beige slide beside a large arrow pointing at it. The slide is titled 'Use of Screening Tool & Facesheet' and reads 'Having a system and form helps keep the services we provide on track and to go though the planned change process.' The footer reads 'Jacob Campbell, Ph.D. LICSW at Heritage University' and 'Fall 2026 SOWK 587 Week 08.'"
+  - slide_name: deck-nqqf18-large-5.jpeg
+    slide_alt: "Two side-by-side pages of a blank form titled 'Bridges Students Face Sheet' sit on a beige slide. Page 1 has fields for Name, DOB, Student ID, Grade Level, IEP Qualifications, Medical Concerns, Medications, Diagnosis, Other Notes, a schedule table for '2020-21 Trimester 1,' and a Guardians Information table. Page 2 holds a Collateral Information table with Name, Role, Contact, and ROI (end) columns. Each page has a 'Last Name' side tab. The footer reads 'Fall 2026 SOWK 587 Week 08' and 'Jacob Campbell, Ph.D. LICSW at Heritage University.'"
+  - slide_name: deck-nqqf18-large-6.jpeg
+    slide_alt: "A beige slide titled 'Formalized Assessment Tools' lists dozens of assessment instruments in three bulleted columns, including the Young Children's Empathy Measure, Depression Rating Scale, and Strengths and Difficulties Questionnaire. The subtitle reads Work in groups to find a few examples and discuss how you might use them. A blue '✅ Competency E' tag sits at the bottom right. The footer reads Fall 2026 SOWK 587 Week 08, cites (Jarolmen & Bautista-Thomas, 2023, pp. 187-191), and names Jacob Campbell, Ph.D. LICSW at Heritage University."
+  - slide_name: deck-nqqf18-large-7.jpeg
+    slide_alt: "A row of black stick figures stands before a red 'HOT SEAT' chair on a mustard-yellow backdrop, suggesting peers taking turns answering questions. The slide is titled 'Assessments' under 'DYNAMIC PRACTICE.' Text reads: 'Assessment Hot Seat: Working groups of three or four, have the group gather assessment data by putting peers in the hot seat to answer questions.' A bullet asks: 'What type of information might you need to gather to understand the needs of a student?' Footer: 'Fall 2026 SOWK 587 Week 08' and 'Jacob Campbell, Ph.D. LICSW at Heritage University.'"
+  - slide_name: deck-nqqf18-large-8.jpeg
+    slide_alt: "A presentation slide titled 'Solution-Focused Therapy in the Schools: The First Session' lists seven steps on a blue background: inquire into the child's life, clarify problem behaviors, ask relationship questions, track exceptions, scale the problem, ask the miracle question, and take a session break before delivering compliments and tasks. An orange callout on the right asks students to pair up and role-play the first session, and the footer reads 'Fall 2026 SOWK 587 Week 08,' '(Jarolmen & Bautista-Thomas, 2023, Appendix B),' and 'Competency E.'"
+presentation_description_md: >
+  A%20significant%20activity%20school%20social%20workers%20engage%20in%20is%20completing%20individual%20work%20through%20the%20process%20of%20engagement,%20assessment,%20and%20intervention.%20This%20week's%20reading,%20Jarolmen%20and%20Bautista-Thomas%20(2023),%20section%20one%20of%20chapter%20nine,%20describes%20the%20process%20social%20workers%20follow%20when%20implementing%20change%20in%20a%20school%20setting%20(referral,%20engagement,%20assessment,%20and%20implementation).%20They%20describe%20evidence-based%20practices%20related%20to%20intervention%20(cognitive-behavioral%20therapy,%20evidence-based%20trauma%20treatment,%20motivational%20interviewing,%20and%20a%20solution-focused%20brief%20approach)%20and%20to%20need%20(autism,%20behavioral%20disorders,%20attention-deficit/hyperactivity%20disorder,%20anxiety).%20The%20forum%20prompts%20build%20on%20this%20content.%20They%20are%20extra%20credit%20this%20week.%20During%20class,%20we%20will%20practice%20activities%20and%20discuss%20the%20referral,%20assessment,%20and%20treatment%20approaches.%0A%0AThe%20agenda%20for%20the%20in-person%20class%20includes:%0A%0A-%20Referrals%0A-%20Practical%20application%20of%20gathering%20information%0A-%20Assessment%0A-%20Solution-Focused%20Therapy%20in%20the%20Schools%0A%0AThe%20learning%20objectives%20for%20the%20week%20include:%0A%0A-%20Explain%20the%20stages%20of%20school-based%20intervention%20(referral,%20engagement,%20assessment,%20and%20intervention)%20and%20describe%20the%20school%20social%20worker's%20role%20at%20each%20stage.%0A-%20Identify%20and%20evaluate%20evidence-based%20practices%20used%20in%20school%20settings%20to%20address%20common%20student%20needs,%20including%20cognitive-behavioral%20therapy%20(CBT),%20motivational%20interviewing%20(MI),%20trauma-informed%20approaches,%20and%20solution-focused%20brief%20therapy%20(SFBT).%0A-%20Analyze%20culturally%20relevant%20adaptations%20of%20evidence-based%20interventions%20using%20case%20study%20material,%20with%20attention%20to%20feasibility%20and%20ethical%20considerations%20in%20school-based%20practice.%0A-%20Apply%20engagement%20and%20assessment%20skills%20in%20simulated%20activities,%20including%20role-plays%20of%20referral%20discussions%20and%20initial%20solution-focused%20sessions%20with%20students.
+downloadable_slides: deck-nqqf18.pdf
+slides_count: 9
+header:
+  teaser: deck-nqqf18-thumb-0.jpeg
+location: "Heritage University"
+tags:
+  - Heritage University
+  - MSW Program
+  - SOWK 587
+---
