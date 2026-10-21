@@ -36,7 +36,7 @@
 <!-- Title and Description -->
 <title>{{ page.title }} - {{ site.title }}</title>
 <meta name="description" content="{{ seo_description | truncate: 150 }}">
-<meta name="author" content="Jacob Campbell">
+<meta name="author" content="Jacob Campbell{% for coauthor in page.coauthors %}, {{ coauthor | markdownify | strip_html | strip }}{% endfor %}">
 <meta name="fediverse:creator" content="@Jacob@social.vsp.ink">
 <link rel="me" href="https://social.vsp.ink/@Jacob">
 <link rel="canonical" href="{{ canonical_url }}">
@@ -104,10 +104,10 @@
   "@context": "https://schema.org",
   "@type": "{{ og_type }}",
   "headline": "{{ page.title }}",
-  "author": {
-    "@type": "Person",
-    "name": "Jacob Campbell"
-  },
+  "author": [
+    { "@type": "Person", "name": "Jacob Campbell" }{% for coauthor in page.coauthors %},
+    { "@type": "Person", "name": {{ coauthor | markdownify | strip_html | strip | jsonify }} }{% endfor %}
+  ],
   "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.datePublished | default: site.time | date_to_xmlschema }}",
   "mainEntityOfPage": {

@@ -48,6 +48,14 @@ permalink: /
               <li class="list-inline-item">{{ presentation.date | date: "%B %Y" }}</li>
             </ul>
           </div>
+          {%- if presentation.coauthors -%}
+          <div class="row">
+            <ul class="list-inline">
+              <li class="list-inline-item icon-link fw-bold"><i class="fa-solid fa-users"></i> Co-presenters:</li>
+              <li class="list-inline-item">{%- for coauthor in presentation.coauthors -%}{%- unless forloop.first -%}{%- if forloop.last -%}{%- if forloop.length > 2 -%},{%- endif %} and {% else %}, {% endif -%}{%- endunless -%}{{ coauthor | markdownify | remove: '<p>' | remove: '</p>' | strip }}{%- endfor -%}</li>
+            </ul>
+          </div>
+          {%- endif %}
           <div class="row">
             <div class="col">
             {% if presentation.presentation_description_md %}

@@ -26,7 +26,7 @@ layout: default
 <div class="row">
   <div class="col"></div>
   <div class="col-md-9 text-center">
-    <p>A presentation at {{ page.location }} in {{ page.date | date: "%B %Y" }} by <a href="https://jacobrcampbell.com/contact">Jacob Campbell</a> and is tagged with
+    <p>A presentation at {{ page.location }} in {{ page.date | date: "%B %Y" }} by <a href="https://vsp.ink/hub">Jacob Campbell</a>{% for coauthor in page.coauthors %}{% if forloop.last %}{% if forloop.length > 1 %},{% endif %} and {% else %}, {% endif %}{{ coauthor | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endfor %}{% if page.coauthors %},{% endif %} and is tagged with
       {% for tag_data in tag_freq_array %}
         {% unless tag_data == "" %}
           {% assign parts = tag_data | split: "#" %}
